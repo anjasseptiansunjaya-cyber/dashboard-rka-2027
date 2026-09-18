@@ -1,7 +1,7 @@
 {
-  "total": 45429131632,
+  "total": 45424015132,
   "by_kelompok": {
-    "Biaya": 6941715310,
+    "Biaya": 6936598810,
     "Aktiva": 38487416322
   },
   "items": [
@@ -63,7 +63,7 @@
     },
     {
       "kode": "13010304",
-      "nama": "BAK KONTROL SALURAN INDUK",
+      "nama": "BAK KONTROL SALURAN INDUK(Pipa Retikulasi NRT)",
       "kelompok": "Aktiva",
       "nilai": 10466626032,
       "row": 19,
@@ -77,7 +77,7 @@
         "Juni": 0,
         "Juli": 0,
         "Agustus": 0,
-        "September": 404569700,
+        "September": 2877072944,
         "Oktober": 803254219,
         "November": 1901543300
       },
@@ -356,6 +356,17 @@
           "jumlah": 508801713,
           "row": 29,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
+        },
+        {
+          "uraian": "Pembuatan Pengembangan DED Zona 1 (5,8 Km)",
+          "jenis": "Perencanaan/DED",
+          "objek": "Zona 1",
+          "satuan": "Paket",
+          "volume": "1",
+          "harga_satuan": 2472503244,
+          "jumlah": 2472503244,
+          "row": 40,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
         }
       ]
     },
@@ -388,8 +399,8 @@
           "volume": "1",
           "harga_satuan": 3310984377,
           "jumlah": 3310984377,
-          "row": 7,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
+          "row": 6,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A6"
         },
         {
           "uraian": "Revitalisasi Ipal Tavia Heritage Hotel",
@@ -399,8 +410,8 @@
           "volume": "1",
           "harga_satuan": 1417631000,
           "jumlah": 1417631000,
-          "row": 8,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
         },
         {
           "uraian": "Ipal TJ",
@@ -410,8 +421,8 @@
           "volume": "1",
           "harga_satuan": 474017835,
           "jumlah": 474017835,
-          "row": 9,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
         },
         {
           "uraian": "PT Jiep (Ipal Kantor)",
@@ -421,8 +432,8 @@
           "volume": "1",
           "harga_satuan": 37500000,
           "jumlah": 37500000,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
         },
         {
           "uraian": "PT Simatupang Jaya Realty (ex Bata)",
@@ -432,8 +443,8 @@
           "volume": "1",
           "harga_satuan": 64393060,
           "jumlah": 64393060,
-          "row": 26,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A26"
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
         }
       ]
     },
@@ -686,7 +697,7 @@
       "kode": "910325",
       "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
       "kelompok": "Biaya",
-      "nilai": 74689467,
+      "nilai": 69572967,
       "row": 6,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A6",
       "bulanan": {
@@ -704,17 +715,6 @@
       },
       "rincian": [
         {
-          "uraian": "Kontrak Payung Jasa Test Pit Perlengkapan Data Jaringan ",
-          "jenis": "Test Pit/Survey",
-          "objek": "Kontrak Payung Jasa Test Pit",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 0,
-          "jumlah": 0,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
-        },
-        {
           "uraian": "Kegiatan Pendukung Bidang Teknik",
           "jenis": "Operasional/Rutin",
           "objek": "Operasional Bidang Teknik",
@@ -722,19 +722,8 @@
           "volume": "1",
           "harga_satuan": 69572967,
           "jumlah": 69572967,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
-        },
-        {
-          "uraian": "Pemeliharaan Peralatan Bidang Teknik",
-          "jenis": "Pemeliharaan Berkala",
-          "objek": "Pemeliharaan Peralatan Bidang Teknik",
-          "satuan": "Unit",
-          "volume": "1",
-          "harga_satuan": 5116500,
-          "jumlah": 5116500,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
         }
       ]
     }
@@ -798,7 +787,7 @@
     },
     {
       "kode": "13010304",
-      "nama": "BAK KONTROL SALURAN INDUK",
+      "nama": "BAK KONTROL SALURAN INDUK(Pipa Retikulasi NRT)",
       "kelompok": "Aktiva",
       "nilai": 10466626032,
       "row": 19,
@@ -812,7 +801,7 @@
         "Juni": 0,
         "Juli": 0,
         "Agustus": 0,
-        "September": 404569700,
+        "September": 2877072944,
         "Oktober": 803254219,
         "November": 1901543300
       },
@@ -1091,6 +1080,17 @@
           "jumlah": 508801713,
           "row": 29,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
+        },
+        {
+          "uraian": "Pembuatan Pengembangan DED Zona 1 (5,8 Km)",
+          "jenis": "Perencanaan/DED",
+          "objek": "Zona 1",
+          "satuan": "Paket",
+          "volume": "1",
+          "harga_satuan": 2472503244,
+          "jumlah": 2472503244,
+          "row": 40,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
         }
       ]
     },
@@ -1123,8 +1123,8 @@
           "volume": "1",
           "harga_satuan": 3310984377,
           "jumlah": 3310984377,
-          "row": 7,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
+          "row": 6,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A6"
         },
         {
           "uraian": "Revitalisasi Ipal Tavia Heritage Hotel",
@@ -1134,8 +1134,8 @@
           "volume": "1",
           "harga_satuan": 1417631000,
           "jumlah": 1417631000,
-          "row": 8,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
         },
         {
           "uraian": "Ipal TJ",
@@ -1145,8 +1145,8 @@
           "volume": "1",
           "harga_satuan": 474017835,
           "jumlah": 474017835,
-          "row": 9,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
         },
         {
           "uraian": "PT Jiep (Ipal Kantor)",
@@ -1156,8 +1156,8 @@
           "volume": "1",
           "harga_satuan": 37500000,
           "jumlah": 37500000,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
         },
         {
           "uraian": "PT Simatupang Jaya Realty (ex Bata)",
@@ -1167,8 +1167,8 @@
           "volume": "1",
           "harga_satuan": 64393060,
           "jumlah": 64393060,
-          "row": 26,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A26"
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
         }
       ]
     },
@@ -1421,7 +1421,7 @@
       "kode": "910325",
       "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
       "kelompok": "Biaya",
-      "nilai": 74689467,
+      "nilai": 69572967,
       "row": 6,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A6",
       "bulanan": {
@@ -1439,17 +1439,6 @@
       },
       "rincian": [
         {
-          "uraian": "Kontrak Payung Jasa Test Pit Perlengkapan Data Jaringan ",
-          "jenis": "Test Pit/Survey",
-          "objek": "Kontrak Payung Jasa Test Pit",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 0,
-          "jumlah": 0,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
-        },
-        {
           "uraian": "Kegiatan Pendukung Bidang Teknik",
           "jenis": "Operasional/Rutin",
           "objek": "Operasional Bidang Teknik",
@@ -1457,19 +1446,8 @@
           "volume": "1",
           "harga_satuan": 69572967,
           "jumlah": 69572967,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
-        },
-        {
-          "uraian": "Pemeliharaan Peralatan Bidang Teknik",
-          "jenis": "Pemeliharaan Berkala",
-          "objek": "Pemeliharaan Peralatan Bidang Teknik",
-          "satuan": "Unit",
-          "volume": "1",
-          "harga_satuan": 5116500,
-          "jumlah": 5116500,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
         }
       ]
     }
