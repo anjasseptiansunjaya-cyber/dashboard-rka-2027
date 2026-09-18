@@ -1,7 +1,7 @@
 {
-  "total": 45400912632,
+  "total": 45429131632,
   "by_kelompok": {
-    "Biaya": 6913496310,
+    "Biaya": 6941715310,
     "Aktiva": 38487416322
   },
   "items": [
@@ -652,21 +652,21 @@
       "kode": "910322",
       "nama": "PENGEMBANGAN & UPDATING GIS JARINGAN PIPA AIR LIMBAH dan POTENSI LAYANAN",
       "kelompok": "Biaya",
-      "nilai": 131320800,
+      "nilai": 159539800,
       "row": 5,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A5",
       "bulanan": {
-        "Januari": 0,
-        "Februari": 0,
-        "Maret": 0,
-        "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
-        "September": 1800000,
-        "Oktober": 15073800,
-        "November": 21000000
+        "Januari": 1800000,
+        "Februari": 1800000,
+        "Maret": 6800000,
+        "April": 1800000,
+        "Mei": 1800000,
+        "Juni": 6800000,
+        "Juli": 1800000,
+        "Agustus": 1800000,
+        "September": 6800000,
+        "Oktober": 1800000,
+        "November": 119739800
       },
       "rincian": [
         {
@@ -675,8 +675,8 @@
           "objek": "GIS Jaringan Pipa Air Limbah",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 131320800,
-          "jumlah": 131320800,
+          "harga_satuan": 159539800,
+          "jumlah": 159539800,
           "row": 5,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A5"
         }
@@ -1387,21 +1387,21 @@
       "kode": "910322",
       "nama": "PENGEMBANGAN & UPDATING GIS JARINGAN PIPA AIR LIMBAH dan POTENSI LAYANAN",
       "kelompok": "Biaya",
-      "nilai": 131320800,
+      "nilai": 159539800,
       "row": 5,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A5",
       "bulanan": {
-        "Januari": 0,
-        "Februari": 0,
-        "Maret": 0,
-        "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
-        "September": 1800000,
-        "Oktober": 15073800,
-        "November": 21000000
+        "Januari": 1800000,
+        "Februari": 1800000,
+        "Maret": 6800000,
+        "April": 1800000,
+        "Mei": 1800000,
+        "Juni": 6800000,
+        "Juli": 1800000,
+        "Agustus": 1800000,
+        "September": 6800000,
+        "Oktober": 1800000,
+        "November": 119739800
       },
       "rincian": [
         {
@@ -1410,8 +1410,8 @@
           "objek": "GIS Jaringan Pipa Air Limbah",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 131320800,
-          "jumlah": 131320800,
+          "harga_satuan": 159539800,
+          "jumlah": 159539800,
           "row": 5,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A5"
         }
