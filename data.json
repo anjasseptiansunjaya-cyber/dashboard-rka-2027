@@ -1,0 +1,1478 @@
+{
+  "total": 45400912632,
+  "by_kelompok": {
+    "Biaya": 6913496310,
+    "Aktiva": 38487416322
+  },
+  "items": [
+    {
+      "kode": "13010307",
+      "nama": "SAMBUNGAN RUMAH",
+      "kelompok": "Aktiva",
+      "nilai": 24773071888,
+      "row": 22,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 0,
+        "Oktober": 52844579,
+        "November": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
+          "jenis": "Sambungan Rumah",
+          "objek": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 23793377309,
+          "jumlah": 23793377309,
+          "row": 30,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
+        },
+        {
+          "uraian": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
+          "jenis": "Sambungan Rumah",
+          "objek": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 52844579,
+          "jumlah": 52844579,
+          "row": 31,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
+        },
+        {
+          "uraian": "CSR Tarikan Ipal TB Simatupang ",
+          "jenis": "Sambungan Rumah",
+          "objek": "CSR Tarikan Ipal TB Simatupang ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 926850000,
+          "jumlah": 926850000,
+          "row": 32,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
+        }
+      ]
+    },
+    {
+      "kode": "13010304",
+      "nama": "BAK KONTROL SALURAN INDUK",
+      "kelompok": "Aktiva",
+      "nilai": 10466626032,
+      "row": 19,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A19",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 404569700,
+        "Oktober": 803254219,
+        "November": 1901543300
+      },
+      "rincian": [
+        {
+          "uraian": "Black Owl ",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Black Owl ",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 260268219,
+          "jumlah": 260268219,
+          "row": 5,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A5"
+        },
+        {
+          "uraian": "HW Akasta",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "HW Akasta",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 404569700,
+          "jumlah": 404569700,
+          "row": 6,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A6"
+        },
+        {
+          "uraian": "Sovereign",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Sovereign",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 150895400,
+          "jumlah": 150895400,
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A7"
+        },
+        {
+          "uraian": "Gedung Kinarya Selaras",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Gedung Kinarya Selaras",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 202194900,
+          "jumlah": 202194900,
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A8"
+        },
+        {
+          "uraian": "Fatmawati City Center",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Fatmawati City Center",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 159359900,
+          "jumlah": 159359900,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
+        },
+        {
+          "uraian": "JGC Indonesia",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "JGC Indonesia",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 107267100,
+          "jumlah": 107267100,
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
+        },
+        {
+          "uraian": "Padel",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Padel",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 89326800,
+          "jumlah": 89326800,
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
+        },
+        {
+          "uraian": "Trakindo",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Trakindo",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 426039300,
+          "jumlah": 426039300,
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
+        },
+        {
+          "uraian": "Cibis",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Cibis",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
+        },
+        {
+          "uraian": "All Fresh",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "All Fresh",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 542986000,
+          "jumlah": 542986000,
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
+        },
+        {
+          "uraian": "Mobil 88 (OLX)",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Mobil 88 (OLX)",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 300000000,
+          "jumlah": 300000000,
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
+        },
+        {
+          "uraian": "Kai Manggarai dan Kai Bandara",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Kai Manggarai dan Kai Bandara",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 600000000,
+          "jumlah": 600000000,
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
+        },
+        {
+          "uraian": "Elnusa",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Elnusa",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 2272283000,
+          "jumlah": 2272283000,
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
+        },
+        {
+          "uraian": "Menara 165",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Menara 165",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 527905000,
+          "jumlah": 527905000,
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
+        },
+        {
+          "uraian": "Sima dan Izzara",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Sima dan Izzara",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 2750808000,
+          "jumlah": 2750808000,
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
+        },
+        {
+          "uraian": "Wisma Raharja",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Wisma Raharja",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 653921000,
+          "jumlah": 653921000,
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
+        },
+        {
+          "uraian": "Kpp Pratama Jakarta Cilandak",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Kpp Pratama Jakarta Cilandak",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
+        },
+        {
+          "uraian": "Ra Premiere Simatupang",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Ra Premiere Simatupang",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 22,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
+        },
+        {
+          "uraian": "Halte TJ Kuningan Barat (Underpass)",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Halte TJ Kuningan Barat (Underpass)",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 23,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
+        },
+        {
+          "uraian": "Halte TJ Patra Kuningan",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Halte TJ Patra Kuningan",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 24,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
+        },
+        {
+          "uraian": "Halte TJ Kuningan",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Halte TJ Kuningan",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 100000000,
+          "jumlah": 100000000,
+          "row": 25,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
+        },
+        {
+          "uraian": "Halte TJ Galunggung",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Halte TJ Galunggung",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 26,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
+        },
+        {
+          "uraian": "Pembayaran Konsultan Cost Estimator Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "jenis": "Jasa Konsultan",
+          "objek": "Pembayaran Konsultan Cost Estimator Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "satuan": "Dokumen",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 27,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
+        },
+        {
+          "uraian": "Supervisi Pelaksanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "jenis": "Jasa Konsultan",
+          "objek": "Supervisi Pelaksanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "satuan": "Dokumen",
+          "volume": "1",
+          "harga_satuan": 410000000,
+          "jumlah": 410000000,
+          "row": 28,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
+        },
+        {
+          "uraian": "Pembayaran Perencanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "jenis": "Jasa Konsultan",
+          "objek": "Pembayaran Perencanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "satuan": "Dokumen",
+          "volume": "1",
+          "harga_satuan": 508801713,
+          "jumlah": 508801713,
+          "row": 29,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
+        }
+      ]
+    },
+    {
+      "kode": "910330",
+      "nama": "BEBAN KONSTRUKSI BIOPAL",
+      "kelompok": "Biaya",
+      "nilai": 5304526272,
+      "row": 7,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A7",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 110384218,
+        "Oktober": 1466915107,
+        "November": 138048415
+      },
+      "rincian": [
+        {
+          "uraian": "Konstruksi Spald Kawasan Tertentu & SPALDS",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "SPALDS Non-Zona",
+          "satuan": "Paket",
+          "volume": "1",
+          "harga_satuan": 3310984377,
+          "jumlah": 3310984377,
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
+        },
+        {
+          "uraian": "Revitalisasi Ipal Tavia Heritage Hotel",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "Revitalisasi Ipal Tavia Heritage Hotel",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 1417631000,
+          "jumlah": 1417631000,
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
+        },
+        {
+          "uraian": "Ipal TJ",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "Ipal TJ",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 474017835,
+          "jumlah": 474017835,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
+        },
+        {
+          "uraian": "PT Jiep (Ipal Kantor)",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "PT Jiep (Ipal Kantor)",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 37500000,
+          "jumlah": 37500000,
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
+        },
+        {
+          "uraian": "PT Simatupang Jaya Realty (ex Bata)",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "PT Simatupang Jaya Realty",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 64393060,
+          "jumlah": 64393060,
+          "row": 26,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A26"
+        }
+      ]
+    },
+    {
+      "kode": "13010201",
+      "nama": "BANGUNAN PEMELIHARAAN",
+      "kelompok": "Aktiva",
+      "nilai": 3247718402,
+      "row": 14,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A14",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 699021268,
+        "Oktober": 300000000,
+        "November": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Revitalisasi Jaringan Pipa Air Limbah dan Pembangunan Wet Pit Garnisun",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Revitalisasi Jaringan Pipa Air Limbah dan Pembangunan Wet Pit Garnisun",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 33,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
+        },
+        {
+          "uraian": "Perbaikan Mh-01 SCBD",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Perbaikan Mh-01 SCBD",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 145172304,
+          "jumlah": 145172304,
+          "row": 34,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
+        },
+        {
+          "uraian": "Revitalisasi Pipa Plaza Sentral",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Revitalisasi Pipa Plaza Sentral",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 300000000,
+          "jumlah": 300000000,
+          "row": 35,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
+        },
+        {
+          "uraian": "Revitalisasi Pipa Transfer Sudirman",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Revitalisasi Pipa Transfer Sudirman",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 2248697134,
+          "jumlah": 2248697134,
+          "row": 36,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A36"
+        },
+        {
+          "uraian": "Perbaikan Jaringan Rasuna",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Perbaikan Jaringan Rasuna",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 300373400,
+          "jumlah": 300373400,
+          "row": 37,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
+        },
+        {
+          "uraian": "Perbaikan Jalan Ambles Sudirman",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Perbaikan Jalan Ambles Sudirman",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 253475564,
+          "jumlah": 253475564,
+          "row": 38,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
+        },
+        {
+          "uraian": "Jasa Survey GPR Ground Penetraping Radar",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Jasa Survey GPR Ground Penetraping Radar",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 39,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
+        }
+      ]
+    },
+    {
+      "kode": "910331",
+      "nama": "BEBAN SERTIFIKASI KBLI PERENCANAAN, SUPERVISI, dan KONSTRUKSI",
+      "kelompok": "Biaya",
+      "nilai": 1402959771,
+      "row": 8,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A8",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 110384218,
+        "Oktober": 513110606,
+        "November": 138048415
+      },
+      "rincian": [
+        {
+          "uraian": "Sucofindo",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Sucofindo",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 123017288,
+          "jumlah": 123017288,
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
+        },
+        {
+          "uraian": "Kopitiam",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Kopitiam",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 124965100,
+          "jumlah": 124965100,
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
+        },
+        {
+          "uraian": "Halte Pinang Ranti",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Halte Pinang Ranti",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 313899000,
+          "jumlah": 313899000,
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
+        },
+        {
+          "uraian": "Halte Setiabudi",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Halte Setiabudi",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 154744000,
+          "jumlah": 154744000,
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
+        },
+        {
+          "uraian": "Halte Kebayoran Lama",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Halte Kebayoran Lama",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 200712500,
+          "jumlah": 200712500,
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
+        },
+        {
+          "uraian": "Halte Juanda",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Halte Juanda",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 41410810,
+          "jumlah": 41410810,
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
+        },
+        {
+          "uraian": "Rencana Biopal Pemasaran",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Rencana Biopal Pemasaran",
+          "satuan": "Paket",
+          "volume": "1",
+          "harga_satuan": 416717847,
+          "jumlah": 416717847,
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
+        },
+        {
+          "uraian": "Rencana Revitalisasi Pemasaran ",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Rencana Revitalisasi Pemasaran",
+          "satuan": "Paket",
+          "volume": "1",
+          "harga_satuan": 27493226,
+          "jumlah": 27493226,
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
+        }
+      ]
+    },
+    {
+      "kode": "910322",
+      "nama": "PENGEMBANGAN & UPDATING GIS JARINGAN PIPA AIR LIMBAH dan POTENSI LAYANAN",
+      "kelompok": "Biaya",
+      "nilai": 131320800,
+      "row": 5,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A5",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 1800000,
+        "Oktober": 15073800,
+        "November": 21000000
+      },
+      "rincian": [
+        {
+          "uraian": "Updating Data Jaringan Pipa Air Limbah & Perlengkapannya",
+          "jenis": "Operasional/Rutin",
+          "objek": "GIS Jaringan Pipa Air Limbah",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 131320800,
+          "jumlah": 131320800,
+          "row": 5,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A5"
+        }
+      ]
+    },
+    {
+      "kode": "910325",
+      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
+      "kelompok": "Biaya",
+      "nilai": 74689467,
+      "row": 6,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A6",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 12584835,
+        "September": 14247033,
+        "Oktober": 14247033,
+        "November": 14247033
+      },
+      "rincian": [
+        {
+          "uraian": "Kontrak Payung Jasa Test Pit Perlengkapan Data Jaringan ",
+          "jenis": "Test Pit/Survey",
+          "objek": "Kontrak Payung Jasa Test Pit",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
+        },
+        {
+          "uraian": "Kegiatan Pendukung Bidang Teknik",
+          "jenis": "Operasional/Rutin",
+          "objek": "Operasional Bidang Teknik",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 69572967,
+          "jumlah": 69572967,
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
+        },
+        {
+          "uraian": "Pemeliharaan Peralatan Bidang Teknik",
+          "jenis": "Pemeliharaan Berkala",
+          "objek": "Pemeliharaan Peralatan Bidang Teknik",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 5116500,
+          "jumlah": 5116500,
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
+        }
+      ]
+    }
+  ],
+  "top10": [
+    {
+      "kode": "13010307",
+      "nama": "SAMBUNGAN RUMAH",
+      "kelompok": "Aktiva",
+      "nilai": 24773071888,
+      "row": 22,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 0,
+        "Oktober": 52844579,
+        "November": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
+          "jenis": "Sambungan Rumah",
+          "objek": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 23793377309,
+          "jumlah": 23793377309,
+          "row": 30,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
+        },
+        {
+          "uraian": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
+          "jenis": "Sambungan Rumah",
+          "objek": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 52844579,
+          "jumlah": 52844579,
+          "row": 31,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
+        },
+        {
+          "uraian": "CSR Tarikan Ipal TB Simatupang ",
+          "jenis": "Sambungan Rumah",
+          "objek": "CSR Tarikan Ipal TB Simatupang ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 926850000,
+          "jumlah": 926850000,
+          "row": 32,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
+        }
+      ]
+    },
+    {
+      "kode": "13010304",
+      "nama": "BAK KONTROL SALURAN INDUK",
+      "kelompok": "Aktiva",
+      "nilai": 10466626032,
+      "row": 19,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A19",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 404569700,
+        "Oktober": 803254219,
+        "November": 1901543300
+      },
+      "rincian": [
+        {
+          "uraian": "Black Owl ",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Black Owl ",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 260268219,
+          "jumlah": 260268219,
+          "row": 5,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A5"
+        },
+        {
+          "uraian": "HW Akasta",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "HW Akasta",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 404569700,
+          "jumlah": 404569700,
+          "row": 6,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A6"
+        },
+        {
+          "uraian": "Sovereign",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Sovereign",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 150895400,
+          "jumlah": 150895400,
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A7"
+        },
+        {
+          "uraian": "Gedung Kinarya Selaras",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Gedung Kinarya Selaras",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 202194900,
+          "jumlah": 202194900,
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A8"
+        },
+        {
+          "uraian": "Fatmawati City Center",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Fatmawati City Center",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 159359900,
+          "jumlah": 159359900,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
+        },
+        {
+          "uraian": "JGC Indonesia",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "JGC Indonesia",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 107267100,
+          "jumlah": 107267100,
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
+        },
+        {
+          "uraian": "Padel",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Padel",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 89326800,
+          "jumlah": 89326800,
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
+        },
+        {
+          "uraian": "Trakindo",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Trakindo",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 426039300,
+          "jumlah": 426039300,
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
+        },
+        {
+          "uraian": "Cibis",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Cibis",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
+        },
+        {
+          "uraian": "All Fresh",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "All Fresh",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 542986000,
+          "jumlah": 542986000,
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
+        },
+        {
+          "uraian": "Mobil 88 (OLX)",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Mobil 88 (OLX)",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 300000000,
+          "jumlah": 300000000,
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
+        },
+        {
+          "uraian": "Kai Manggarai dan Kai Bandara",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Kai Manggarai dan Kai Bandara",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 600000000,
+          "jumlah": 600000000,
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
+        },
+        {
+          "uraian": "Elnusa",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Elnusa",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 2272283000,
+          "jumlah": 2272283000,
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
+        },
+        {
+          "uraian": "Menara 165",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Menara 165",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 527905000,
+          "jumlah": 527905000,
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
+        },
+        {
+          "uraian": "Sima dan Izzara",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Sima dan Izzara",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 2750808000,
+          "jumlah": 2750808000,
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
+        },
+        {
+          "uraian": "Wisma Raharja",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Wisma Raharja",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 653921000,
+          "jumlah": 653921000,
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
+        },
+        {
+          "uraian": "Kpp Pratama Jakarta Cilandak",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Kpp Pratama Jakarta Cilandak",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
+        },
+        {
+          "uraian": "Ra Premiere Simatupang",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Ra Premiere Simatupang",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 22,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
+        },
+        {
+          "uraian": "Halte TJ Kuningan Barat (Underpass)",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Halte TJ Kuningan Barat (Underpass)",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 23,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
+        },
+        {
+          "uraian": "Halte TJ Patra Kuningan",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Halte TJ Patra Kuningan",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 24,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
+        },
+        {
+          "uraian": "Halte TJ Kuningan",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Halte TJ Kuningan",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 100000000,
+          "jumlah": 100000000,
+          "row": 25,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
+        },
+        {
+          "uraian": "Halte TJ Galunggung",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Halte TJ Galunggung",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 26,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
+        },
+        {
+          "uraian": "Pembayaran Konsultan Cost Estimator Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "jenis": "Jasa Konsultan",
+          "objek": "Pembayaran Konsultan Cost Estimator Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "satuan": "Dokumen",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 27,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
+        },
+        {
+          "uraian": "Supervisi Pelaksanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "jenis": "Jasa Konsultan",
+          "objek": "Supervisi Pelaksanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "satuan": "Dokumen",
+          "volume": "1",
+          "harga_satuan": 410000000,
+          "jumlah": 410000000,
+          "row": 28,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
+        },
+        {
+          "uraian": "Pembayaran Perencanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "jenis": "Jasa Konsultan",
+          "objek": "Pembayaran Perencanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
+          "satuan": "Dokumen",
+          "volume": "1",
+          "harga_satuan": 508801713,
+          "jumlah": 508801713,
+          "row": 29,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
+        }
+      ]
+    },
+    {
+      "kode": "910330",
+      "nama": "BEBAN KONSTRUKSI BIOPAL",
+      "kelompok": "Biaya",
+      "nilai": 5304526272,
+      "row": 7,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A7",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 110384218,
+        "Oktober": 1466915107,
+        "November": 138048415
+      },
+      "rincian": [
+        {
+          "uraian": "Konstruksi Spald Kawasan Tertentu & SPALDS",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "SPALDS Non-Zona",
+          "satuan": "Paket",
+          "volume": "1",
+          "harga_satuan": 3310984377,
+          "jumlah": 3310984377,
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
+        },
+        {
+          "uraian": "Revitalisasi Ipal Tavia Heritage Hotel",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "Revitalisasi Ipal Tavia Heritage Hotel",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 1417631000,
+          "jumlah": 1417631000,
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
+        },
+        {
+          "uraian": "Ipal TJ",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "Ipal TJ",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 474017835,
+          "jumlah": 474017835,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
+        },
+        {
+          "uraian": "PT Jiep (Ipal Kantor)",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "PT Jiep (Ipal Kantor)",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 37500000,
+          "jumlah": 37500000,
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
+        },
+        {
+          "uraian": "PT Simatupang Jaya Realty (ex Bata)",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "PT Simatupang Jaya Realty",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 64393060,
+          "jumlah": 64393060,
+          "row": 26,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A26"
+        }
+      ]
+    },
+    {
+      "kode": "13010201",
+      "nama": "BANGUNAN PEMELIHARAAN",
+      "kelompok": "Aktiva",
+      "nilai": 3247718402,
+      "row": 14,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A14",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 699021268,
+        "Oktober": 300000000,
+        "November": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Revitalisasi Jaringan Pipa Air Limbah dan Pembangunan Wet Pit Garnisun",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Revitalisasi Jaringan Pipa Air Limbah dan Pembangunan Wet Pit Garnisun",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 33,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
+        },
+        {
+          "uraian": "Perbaikan Mh-01 SCBD",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Perbaikan Mh-01 SCBD",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 145172304,
+          "jumlah": 145172304,
+          "row": 34,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
+        },
+        {
+          "uraian": "Revitalisasi Pipa Plaza Sentral",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Revitalisasi Pipa Plaza Sentral",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 300000000,
+          "jumlah": 300000000,
+          "row": 35,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
+        },
+        {
+          "uraian": "Revitalisasi Pipa Transfer Sudirman",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Revitalisasi Pipa Transfer Sudirman",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 2248697134,
+          "jumlah": 2248697134,
+          "row": 36,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A36"
+        },
+        {
+          "uraian": "Perbaikan Jaringan Rasuna",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Perbaikan Jaringan Rasuna",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 300373400,
+          "jumlah": 300373400,
+          "row": 37,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
+        },
+        {
+          "uraian": "Perbaikan Jalan Ambles Sudirman",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Perbaikan Jalan Ambles Sudirman",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 253475564,
+          "jumlah": 253475564,
+          "row": 38,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
+        },
+        {
+          "uraian": "Jasa Survey GPR Ground Penetraping Radar",
+          "jenis": "Perbaikan/Revitalisasi Jaringan",
+          "objek": "Jasa Survey GPR Ground Penetraping Radar",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 39,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
+        }
+      ]
+    },
+    {
+      "kode": "910331",
+      "nama": "BEBAN SERTIFIKASI KBLI PERENCANAAN, SUPERVISI, dan KONSTRUKSI",
+      "kelompok": "Biaya",
+      "nilai": 1402959771,
+      "row": 8,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A8",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 110384218,
+        "Oktober": 513110606,
+        "November": 138048415
+      },
+      "rincian": [
+        {
+          "uraian": "Sucofindo",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Sucofindo",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 123017288,
+          "jumlah": 123017288,
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
+        },
+        {
+          "uraian": "Kopitiam",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Kopitiam",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 124965100,
+          "jumlah": 124965100,
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
+        },
+        {
+          "uraian": "Halte Pinang Ranti",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Halte Pinang Ranti",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 313899000,
+          "jumlah": 313899000,
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
+        },
+        {
+          "uraian": "Halte Setiabudi",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Halte Setiabudi",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 154744000,
+          "jumlah": 154744000,
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
+        },
+        {
+          "uraian": "Halte Kebayoran Lama",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Halte Kebayoran Lama",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 200712500,
+          "jumlah": 200712500,
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
+        },
+        {
+          "uraian": "Halte Juanda",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Halte Juanda",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 41410810,
+          "jumlah": 41410810,
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
+        },
+        {
+          "uraian": "Rencana Biopal Pemasaran",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Rencana Biopal Pemasaran",
+          "satuan": "Paket",
+          "volume": "1",
+          "harga_satuan": 416717847,
+          "jumlah": 416717847,
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
+        },
+        {
+          "uraian": "Rencana Revitalisasi Pemasaran ",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Rencana Revitalisasi Pemasaran",
+          "satuan": "Paket",
+          "volume": "1",
+          "harga_satuan": 27493226,
+          "jumlah": 27493226,
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
+        }
+      ]
+    },
+    {
+      "kode": "910322",
+      "nama": "PENGEMBANGAN & UPDATING GIS JARINGAN PIPA AIR LIMBAH dan POTENSI LAYANAN",
+      "kelompok": "Biaya",
+      "nilai": 131320800,
+      "row": 5,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A5",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 1800000,
+        "Oktober": 15073800,
+        "November": 21000000
+      },
+      "rincian": [
+        {
+          "uraian": "Updating Data Jaringan Pipa Air Limbah & Perlengkapannya",
+          "jenis": "Operasional/Rutin",
+          "objek": "GIS Jaringan Pipa Air Limbah",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 131320800,
+          "jumlah": 131320800,
+          "row": 5,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A5"
+        }
+      ]
+    },
+    {
+      "kode": "910325",
+      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
+      "kelompok": "Biaya",
+      "nilai": 74689467,
+      "row": 6,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A6",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 12584835,
+        "September": 14247033,
+        "Oktober": 14247033,
+        "November": 14247033
+      },
+      "rincian": [
+        {
+          "uraian": "Kontrak Payung Jasa Test Pit Perlengkapan Data Jaringan ",
+          "jenis": "Test Pit/Survey",
+          "objek": "Kontrak Payung Jasa Test Pit",
+          "satuan": "Titik",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
+        },
+        {
+          "uraian": "Kegiatan Pendukung Bidang Teknik",
+          "jenis": "Operasional/Rutin",
+          "objek": "Operasional Bidang Teknik",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 69572967,
+          "jumlah": 69572967,
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
+        },
+        {
+          "uraian": "Pemeliharaan Peralatan Bidang Teknik",
+          "jenis": "Pemeliharaan Berkala",
+          "objek": "Pemeliharaan Peralatan Bidang Teknik",
+          "satuan": "Unit",
+          "volume": "1",
+          "harga_satuan": 5116500,
+          "jumlah": 5116500,
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163"
+}
