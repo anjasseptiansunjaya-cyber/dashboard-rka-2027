@@ -1,8 +1,8 @@
 {
-  "total": 45424015132,
+  "total": 47896518376,
   "by_kelompok": {
     "Biaya": 6936598810,
-    "Aktiva": 38487416322
+    "Aktiva": 40959919566
   },
   "items": [
     {
@@ -65,7 +65,7 @@
       "kode": "13010304",
       "nama": "BAK KONTROL SALURAN INDUK(Pipa Retikulasi NRT)",
       "kelompok": "Aktiva",
-      "nilai": 10466626032,
+      "nilai": 12939129276,
       "row": 19,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A19",
       "bulanan": {
@@ -789,7 +789,7 @@
       "kode": "13010304",
       "nama": "BAK KONTROL SALURAN INDUK(Pipa Retikulasi NRT)",
       "kelompok": "Aktiva",
-      "nilai": 10466626032,
+      "nilai": 12939129276,
       "row": 19,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A19",
       "bulanan": {
