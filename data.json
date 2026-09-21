@@ -1,7 +1,7 @@
 {
-  "total": 60487374944,
+  "total": 60352378444,
   "by_kelompok": {
-    "Biaya": 13267455378,
+    "Biaya": 13132458878,
     "Aktiva": 47219919566
   },
   "items": [
@@ -69,7 +69,7 @@
       "row": 22,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
       "bulanan": {
-        "Januari": 0,
+        "Januari": 6260000000,
         "Februari": 0,
         "Maret": 0,
         "April": 0,
@@ -785,7 +785,7 @@
       "row": 7,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A7",
       "bulanan": {
-        "Januari": 0,
+        "Januari": 5607507586,
         "Februari": 0,
         "Maret": 0,
         "April": 0,
@@ -1266,28 +1266,6 @@
       ]
     },
     {
-      "kode": "910327",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - LISENSI SOFTWARE",
-      "kelompok": "Biaya",
-      "nilai": 85000000,
-      "row": 10,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A10",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Lisensi Software Pendukung Kegiatan Teknik",
-          "jenis": "Operasional/Rutin",
-          "objek": "Operasional Bidang Teknik",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 85000000,
-          "jumlah": 85000000,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
-        }
-      ]
-    },
-    {
       "kode": "910325",
       "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
       "kelompok": "Biaya",
@@ -1318,50 +1296,6 @@
           "jumlah": 69572967,
           "row": 19,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
-        }
-      ]
-    },
-    {
-      "kode": "910326",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - KOORDINASI SURVEY LAPANGAN",
-      "kelompok": "Biaya",
-      "nilai": 44880000,
-      "row": 9,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A9",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Koordinasi Survey Lapangan",
-          "jenis": "Operasional/Rutin",
-          "objek": "Operasional Bidang Teknik",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 44880000,
-          "jumlah": 44880000,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
-        }
-      ]
-    },
-    {
-      "kode": "910328",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - PEMELIHARAAN PERALATAN",
-      "kelompok": "Biaya",
-      "nilai": 5116500,
-      "row": 11,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A11",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Pemeliharaan Peralatan Bidang Teknik",
-          "jenis": "Pemeliharaan Berkala",
-          "objek": "Pemeliharaan Peralatan Bidang Teknik",
-          "satuan": "Unit",
-          "volume": "1",
-          "harga_satuan": 5116500,
-          "jumlah": 5116500,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A22"
         }
       ]
     }
@@ -1431,7 +1365,7 @@
       "row": 22,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
       "bulanan": {
-        "Januari": 0,
+        "Januari": 6260000000,
         "Februari": 0,
         "Maret": 0,
         "April": 0,
@@ -2147,7 +2081,7 @@
       "row": 7,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A7",
       "bulanan": {
-        "Januari": 0,
+        "Januari": 5607507586,
         "Februari": 0,
         "Maret": 0,
         "April": 0,
@@ -2628,28 +2562,6 @@
       ]
     },
     {
-      "kode": "910327",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - LISENSI SOFTWARE",
-      "kelompok": "Biaya",
-      "nilai": 85000000,
-      "row": 10,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A10",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Lisensi Software Pendukung Kegiatan Teknik",
-          "jenis": "Operasional/Rutin",
-          "objek": "Operasional Bidang Teknik",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 85000000,
-          "jumlah": 85000000,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
-        }
-      ]
-    },
-    {
       "kode": "910325",
       "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
       "kelompok": "Biaya",
@@ -2680,50 +2592,6 @@
           "jumlah": 69572967,
           "row": 19,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
-        }
-      ]
-    },
-    {
-      "kode": "910326",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - KOORDINASI SURVEY LAPANGAN",
-      "kelompok": "Biaya",
-      "nilai": 44880000,
-      "row": 9,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A9",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Koordinasi Survey Lapangan",
-          "jenis": "Operasional/Rutin",
-          "objek": "Operasional Bidang Teknik",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 44880000,
-          "jumlah": 44880000,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
-        }
-      ]
-    },
-    {
-      "kode": "910328",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - PEMELIHARAAN PERALATAN",
-      "kelompok": "Biaya",
-      "nilai": 5116500,
-      "row": 11,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A11",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Pemeliharaan Peralatan Bidang Teknik",
-          "jenis": "Pemeliharaan Berkala",
-          "objek": "Pemeliharaan Peralatan Bidang Teknik",
-          "satuan": "Unit",
-          "volume": "1",
-          "harga_satuan": 5116500,
-          "jumlah": 5116500,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A22"
         }
       ]
     }
