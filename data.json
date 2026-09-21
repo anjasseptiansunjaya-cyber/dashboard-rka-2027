@@ -1,8 +1,8 @@
 {
-  "total": 57535084351,
+  "total": 52330434032,
   "by_kelompok": {
     "Biaya": 10315164785,
-    "Aktiva": 47219919566
+    "Aktiva": 42015269247
   },
   "items": [
     {
@@ -34,8 +34,8 @@
           "volume": "1",
           "harga_satuan": 23793377309,
           "jumlah": 23793377309,
-          "row": 30,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
         },
         {
           "uraian": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
@@ -45,8 +45,8 @@
           "volume": "1",
           "harga_satuan": 52844579,
           "jumlah": 52844579,
-          "row": 31,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
         },
         {
           "uraian": "CSR Tarikan Ipal TB Simatupang ",
@@ -56,8 +56,8 @@
           "volume": "1",
           "harga_satuan": 926850000,
           "jumlah": 926850000,
-          "row": 32,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
+          "row": 22,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
         }
       ]
     },
@@ -65,7 +65,7 @@
       "kode": "13010304",
       "nama": "BAK KONTROL SALURAN INDUK(Pipa Retikulasi NRT)",
       "kelompok": "Aktiva",
-      "nilai": 19199129276,
+      "nilai": 13994478957,
       "row": 22,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
       "bulanan": {
@@ -77,77 +77,11 @@
         "Juni": 0,
         "Juli": 0,
         "Agustus": 0,
-        "September": 2877072944,
-        "Oktober": 803254219,
-        "November": 1901543300
+        "September": 2472503244,
+        "Oktober": 542986000,
+        "November": 627905000
       },
       "rincian": [
-        {
-          "uraian": "Sovereign",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Sovereign",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 150895400,
-          "jumlah": 150895400,
-          "row": 7,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A7"
-        },
-        {
-          "uraian": "Gedung Kinarya Selaras",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Gedung Kinarya Selaras",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 202194900,
-          "jumlah": 202194900,
-          "row": 8,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A8"
-        },
-        {
-          "uraian": "Fatmawati City Center",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Fatmawati City Center",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 159359900,
-          "jumlah": 159359900,
-          "row": 9,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
-        },
-        {
-          "uraian": "JGC Indonesia",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "JGC Indonesia",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 107267100,
-          "jumlah": 107267100,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
-        },
-        {
-          "uraian": "Padel",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Padel",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 89326800,
-          "jumlah": 89326800,
-          "row": 11,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
-        },
-        {
-          "uraian": "Trakindo",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Trakindo",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 426039300,
-          "jumlah": 426039300,
-          "row": 12,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
-        },
         {
           "uraian": "Cibis",
           "jenis": "Penyambungan Pelanggan Baru",
@@ -156,8 +90,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 13,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
+          "row": 5,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A5"
         },
         {
           "uraian": "All Fresh",
@@ -167,8 +101,8 @@
           "volume": "1",
           "harga_satuan": 542986000,
           "jumlah": 542986000,
-          "row": 14,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
+          "row": 6,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A6"
         },
         {
           "uraian": "Mobil 88 (OLX)",
@@ -178,8 +112,8 @@
           "volume": "1",
           "harga_satuan": 300000000,
           "jumlah": 300000000,
-          "row": 15,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A7"
         },
         {
           "uraian": "Kai Manggarai dan Kai Bandara",
@@ -189,8 +123,8 @@
           "volume": "1",
           "harga_satuan": 600000000,
           "jumlah": 600000000,
-          "row": 16,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A8"
         },
         {
           "uraian": "Elnusa",
@@ -200,8 +134,8 @@
           "volume": "1",
           "harga_satuan": 2272283000,
           "jumlah": 2272283000,
-          "row": 17,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
         },
         {
           "uraian": "Menara 165",
@@ -211,30 +145,8 @@
           "volume": "1",
           "harga_satuan": 527905000,
           "jumlah": 527905000,
-          "row": 18,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
-        },
-        {
-          "uraian": "Sima dan Izzara",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Sima dan Izzara",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 2750808000,
-          "jumlah": 2750808000,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
-        },
-        {
-          "uraian": "Wisma Raharja",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Wisma Raharja",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 653921000,
-          "jumlah": 653921000,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
         },
         {
           "uraian": "Kpp Pratama Jakarta Cilandak",
@@ -244,8 +156,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
         },
         {
           "uraian": "Ra Premiere Simatupang",
@@ -255,8 +167,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
         },
         {
           "uraian": "Halte TJ Kuningan Barat (Underpass)",
@@ -266,8 +178,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 23,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
         },
         {
           "uraian": "Halte TJ Patra Kuningan",
@@ -277,8 +189,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 24,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
         },
         {
           "uraian": "Halte TJ Kuningan",
@@ -288,8 +200,8 @@
           "volume": "1",
           "harga_satuan": 100000000,
           "jumlah": 100000000,
-          "row": 25,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
         },
         {
           "uraian": "Halte TJ Galunggung",
@@ -299,8 +211,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 26,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
         },
         {
           "uraian": "Pembayaran Konsultan Cost Estimator Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
@@ -310,8 +222,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 27,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
         },
         {
           "uraian": "Supervisi Pelaksanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
@@ -321,8 +233,8 @@
           "volume": "1",
           "harga_satuan": 410000000,
           "jumlah": 410000000,
-          "row": 28,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
         },
         {
           "uraian": "Pembayaran Perencanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
@@ -332,8 +244,8 @@
           "volume": "1",
           "harga_satuan": 508801713,
           "jumlah": 508801713,
-          "row": 29,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
         },
         {
           "uraian": "Pembuatan Pengembangan DED Zona 1 (5,8 Km)",
@@ -343,8 +255,8 @@
           "volume": "1",
           "harga_satuan": 2472503244,
           "jumlah": 2472503244,
-          "row": 40,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
+          "row": 30,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
         },
         {
           "uraian": "Type A",
@@ -354,8 +266,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 41,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A41"
+          "row": 31,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
         },
         {
           "uraian": "Type B",
@@ -365,8 +277,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 42,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A42"
+          "row": 32,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
         },
         {
           "uraian": "Type C",
@@ -376,8 +288,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 43,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A43"
+          "row": 33,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
         },
         {
           "uraian": "Type D",
@@ -387,8 +299,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 44,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A44"
+          "row": 34,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
         },
         {
           "uraian": "NK 201-204",
@@ -398,8 +310,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 45,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A45"
+          "row": 35,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
         },
         {
           "uraian": "NK 205-208",
@@ -409,8 +321,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 46,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A46"
+          "row": 36,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A36"
         },
         {
           "uraian": "XL Axiata Tower",
@@ -420,8 +332,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 47,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
+          "row": 37,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
         },
         {
           "uraian": "Menara Palma",
@@ -431,8 +343,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 48,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A48"
+          "row": 38,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
         },
         {
           "uraian": "Palma One",
@@ -442,8 +354,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 49,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A49"
+          "row": 39,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
         },
         {
           "uraian": "Tempo Scan Tower",
@@ -453,8 +365,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 50,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A50"
+          "row": 40,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
         },
         {
           "uraian": "Wisma Mulia 1",
@@ -464,8 +376,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 51,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A51"
+          "row": 41,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A41"
         },
         {
           "uraian": "Plaza Mandiri",
@@ -475,8 +387,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 52,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A52"
+          "row": 42,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A42"
         },
         {
           "uraian": "City Plaza",
@@ -486,8 +398,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 53,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A53"
+          "row": 43,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A43"
         },
         {
           "uraian": "Menara Mandiri",
@@ -497,8 +409,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 54,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A54"
+          "row": 44,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A44"
         },
         {
           "uraian": "The City Center Batavia",
@@ -508,8 +420,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 55,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A55"
+          "row": 45,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A45"
         },
         {
           "uraian": "Ratu Plaza (Office)",
@@ -519,8 +431,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 56,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A56"
+          "row": 46,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A46"
         },
         {
           "uraian": "Hotel Kartika Candra",
@@ -530,8 +442,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 57,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A57"
+          "row": 47,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
         },
         {
           "uraian": "Senopati Suites 1",
@@ -541,8 +453,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 58,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A58"
+          "row": 48,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A48"
         },
         {
           "uraian": "Senopati Penthouse",
@@ -552,8 +464,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 59,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A59"
+          "row": 49,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A49"
         },
         {
           "uraian": "Ratu Plaza (Apartemen)",
@@ -563,8 +475,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 60,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A60"
+          "row": 50,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A50"
         },
         {
           "uraian": "Apartemen Casablanca",
@@ -574,8 +486,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 61,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A61"
+          "row": 51,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A51"
         },
         {
           "uraian": "Apartemen Kusuma Candra",
@@ -585,8 +497,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 62,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A62"
+          "row": 52,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A52"
         },
         {
           "uraian": "Plaza FX Sudirman",
@@ -596,8 +508,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 63,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A63"
+          "row": 53,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A53"
         },
         {
           "uraian": "Hyundai SCBD Lot 19",
@@ -607,8 +519,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 64,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A64"
+          "row": 54,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A54"
         },
         {
           "uraian": "Ratu Plaza (Mall)",
@@ -618,8 +530,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 65,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A65"
+          "row": 55,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A55"
         },
         {
           "uraian": "Balaiyasa",
@@ -629,8 +541,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 66,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A66"
+          "row": 56,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A56"
         },
         {
           "uraian": "LPP TVRI",
@@ -640,8 +552,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 67,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A67"
+          "row": 57,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A57"
         },
         {
           "uraian": "Kemenpora RI",
@@ -651,8 +563,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 68,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A68"
+          "row": 58,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A58"
         },
         {
           "uraian": "Kantor ATR/BPN RI",
@@ -662,8 +574,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 69,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A69"
+          "row": 59,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A59"
         },
         {
           "uraian": "Kantor Dinas Pariwisata Provinsi DKI",
@@ -673,8 +585,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 70,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A70"
+          "row": 60,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A60"
         },
         {
           "uraian": "Grand Asia Hotel",
@@ -684,8 +596,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 71,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A71"
+          "row": 61,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A61"
         },
         {
           "uraian": "Emporium Pluit Mall",
@@ -695,8 +607,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 72,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A72"
+          "row": 62,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A62"
         },
         {
           "uraian": "Pluit Juction & Fave Hotel",
@@ -706,8 +618,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 73,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A73"
+          "row": 63,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A63"
         },
         {
           "uraian": "Maxley Hotel",
@@ -717,8 +629,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 74,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A74"
+          "row": 64,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A64"
         },
         {
           "uraian": "Ra Premiere Simatupang",
@@ -728,8 +640,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 75,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A75"
+          "row": 65,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A65"
         },
         {
           "uraian": "Fatmawati City Center",
@@ -739,8 +651,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 76,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A76"
+          "row": 66,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A66"
         },
         {
           "uraian": "KPP Pratama Jakarta Cilandak",
@@ -750,8 +662,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 77,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A77"
+          "row": 67,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A67"
         }
       ]
     },
@@ -873,8 +785,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 33,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
+          "row": 23,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
         },
         {
           "uraian": "Perbaikan Mh-01 SCBD",
@@ -884,8 +796,8 @@
           "volume": "1",
           "harga_satuan": 145172304,
           "jumlah": 145172304,
-          "row": 34,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
+          "row": 24,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
         },
         {
           "uraian": "Revitalisasi Pipa Plaza Sentral",
@@ -895,8 +807,8 @@
           "volume": "1",
           "harga_satuan": 300000000,
           "jumlah": 300000000,
-          "row": 35,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
+          "row": 25,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
         },
         {
           "uraian": "Revitalisasi Pipa Transfer Sudirman",
@@ -906,8 +818,8 @@
           "volume": "1",
           "harga_satuan": 2248697134,
           "jumlah": 2248697134,
-          "row": 36,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A36"
+          "row": 26,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
         },
         {
           "uraian": "Perbaikan Jaringan Rasuna",
@@ -917,8 +829,8 @@
           "volume": "1",
           "harga_satuan": 300373400,
           "jumlah": 300373400,
-          "row": 37,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
+          "row": 27,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
         },
         {
           "uraian": "Perbaikan Jalan Ambles Sudirman",
@@ -928,8 +840,8 @@
           "volume": "1",
           "harga_satuan": 253475564,
           "jumlah": 253475564,
-          "row": 38,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
+          "row": 28,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
         },
         {
           "uraian": "Jasa Survey GPR Ground Penetraping Radar",
@@ -939,8 +851,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 39,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
+          "row": 29,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
         }
       ]
     },
@@ -1264,8 +1176,8 @@
           "volume": "1",
           "harga_satuan": 23793377309,
           "jumlah": 23793377309,
-          "row": 30,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
         },
         {
           "uraian": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
@@ -1275,8 +1187,8 @@
           "volume": "1",
           "harga_satuan": 52844579,
           "jumlah": 52844579,
-          "row": 31,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
         },
         {
           "uraian": "CSR Tarikan Ipal TB Simatupang ",
@@ -1286,8 +1198,8 @@
           "volume": "1",
           "harga_satuan": 926850000,
           "jumlah": 926850000,
-          "row": 32,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
+          "row": 22,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
         }
       ]
     },
@@ -1295,7 +1207,7 @@
       "kode": "13010304",
       "nama": "BAK KONTROL SALURAN INDUK(Pipa Retikulasi NRT)",
       "kelompok": "Aktiva",
-      "nilai": 19199129276,
+      "nilai": 13994478957,
       "row": 22,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
       "bulanan": {
@@ -1307,77 +1219,11 @@
         "Juni": 0,
         "Juli": 0,
         "Agustus": 0,
-        "September": 2877072944,
-        "Oktober": 803254219,
-        "November": 1901543300
+        "September": 2472503244,
+        "Oktober": 542986000,
+        "November": 627905000
       },
       "rincian": [
-        {
-          "uraian": "Sovereign",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Sovereign",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 150895400,
-          "jumlah": 150895400,
-          "row": 7,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A7"
-        },
-        {
-          "uraian": "Gedung Kinarya Selaras",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Gedung Kinarya Selaras",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 202194900,
-          "jumlah": 202194900,
-          "row": 8,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A8"
-        },
-        {
-          "uraian": "Fatmawati City Center",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Fatmawati City Center",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 159359900,
-          "jumlah": 159359900,
-          "row": 9,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
-        },
-        {
-          "uraian": "JGC Indonesia",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "JGC Indonesia",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 107267100,
-          "jumlah": 107267100,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
-        },
-        {
-          "uraian": "Padel",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Padel",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 89326800,
-          "jumlah": 89326800,
-          "row": 11,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
-        },
-        {
-          "uraian": "Trakindo",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Trakindo",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 426039300,
-          "jumlah": 426039300,
-          "row": 12,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
-        },
         {
           "uraian": "Cibis",
           "jenis": "Penyambungan Pelanggan Baru",
@@ -1386,8 +1232,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 13,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
+          "row": 5,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A5"
         },
         {
           "uraian": "All Fresh",
@@ -1397,8 +1243,8 @@
           "volume": "1",
           "harga_satuan": 542986000,
           "jumlah": 542986000,
-          "row": 14,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
+          "row": 6,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A6"
         },
         {
           "uraian": "Mobil 88 (OLX)",
@@ -1408,8 +1254,8 @@
           "volume": "1",
           "harga_satuan": 300000000,
           "jumlah": 300000000,
-          "row": 15,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A7"
         },
         {
           "uraian": "Kai Manggarai dan Kai Bandara",
@@ -1419,8 +1265,8 @@
           "volume": "1",
           "harga_satuan": 600000000,
           "jumlah": 600000000,
-          "row": 16,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A8"
         },
         {
           "uraian": "Elnusa",
@@ -1430,8 +1276,8 @@
           "volume": "1",
           "harga_satuan": 2272283000,
           "jumlah": 2272283000,
-          "row": 17,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
         },
         {
           "uraian": "Menara 165",
@@ -1441,30 +1287,8 @@
           "volume": "1",
           "harga_satuan": 527905000,
           "jumlah": 527905000,
-          "row": 18,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
-        },
-        {
-          "uraian": "Sima dan Izzara",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Sima dan Izzara",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 2750808000,
-          "jumlah": 2750808000,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
-        },
-        {
-          "uraian": "Wisma Raharja",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Wisma Raharja",
-          "satuan": "Titik",
-          "volume": "1",
-          "harga_satuan": 653921000,
-          "jumlah": 653921000,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
         },
         {
           "uraian": "Kpp Pratama Jakarta Cilandak",
@@ -1474,8 +1298,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
         },
         {
           "uraian": "Ra Premiere Simatupang",
@@ -1485,8 +1309,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
         },
         {
           "uraian": "Halte TJ Kuningan Barat (Underpass)",
@@ -1496,8 +1320,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 23,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
         },
         {
           "uraian": "Halte TJ Patra Kuningan",
@@ -1507,8 +1331,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 24,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
         },
         {
           "uraian": "Halte TJ Kuningan",
@@ -1518,8 +1342,8 @@
           "volume": "1",
           "harga_satuan": 100000000,
           "jumlah": 100000000,
-          "row": 25,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
         },
         {
           "uraian": "Halte TJ Galunggung",
@@ -1529,8 +1353,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 26,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
         },
         {
           "uraian": "Pembayaran Konsultan Cost Estimator Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
@@ -1540,8 +1364,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 27,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
         },
         {
           "uraian": "Supervisi Pelaksanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
@@ -1551,8 +1375,8 @@
           "volume": "1",
           "harga_satuan": 410000000,
           "jumlah": 410000000,
-          "row": 28,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
         },
         {
           "uraian": "Pembayaran Perencanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
@@ -1562,8 +1386,8 @@
           "volume": "1",
           "harga_satuan": 508801713,
           "jumlah": 508801713,
-          "row": 29,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
         },
         {
           "uraian": "Pembuatan Pengembangan DED Zona 1 (5,8 Km)",
@@ -1573,8 +1397,8 @@
           "volume": "1",
           "harga_satuan": 2472503244,
           "jumlah": 2472503244,
-          "row": 40,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
+          "row": 30,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
         },
         {
           "uraian": "Type A",
@@ -1584,8 +1408,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 41,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A41"
+          "row": 31,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
         },
         {
           "uraian": "Type B",
@@ -1595,8 +1419,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 42,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A42"
+          "row": 32,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
         },
         {
           "uraian": "Type C",
@@ -1606,8 +1430,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 43,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A43"
+          "row": 33,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
         },
         {
           "uraian": "Type D",
@@ -1617,8 +1441,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 44,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A44"
+          "row": 34,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
         },
         {
           "uraian": "NK 201-204",
@@ -1628,8 +1452,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 45,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A45"
+          "row": 35,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
         },
         {
           "uraian": "NK 205-208",
@@ -1639,8 +1463,8 @@
           "volume": "1",
           "harga_satuan": 10000000,
           "jumlah": 10000000,
-          "row": 46,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A46"
+          "row": 36,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A36"
         },
         {
           "uraian": "XL Axiata Tower",
@@ -1650,8 +1474,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 47,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
+          "row": 37,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
         },
         {
           "uraian": "Menara Palma",
@@ -1661,8 +1485,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 48,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A48"
+          "row": 38,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
         },
         {
           "uraian": "Palma One",
@@ -1672,8 +1496,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 49,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A49"
+          "row": 39,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
         },
         {
           "uraian": "Tempo Scan Tower",
@@ -1683,8 +1507,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 50,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A50"
+          "row": 40,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
         },
         {
           "uraian": "Wisma Mulia 1",
@@ -1694,8 +1518,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 51,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A51"
+          "row": 41,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A41"
         },
         {
           "uraian": "Plaza Mandiri",
@@ -1705,8 +1529,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 52,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A52"
+          "row": 42,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A42"
         },
         {
           "uraian": "City Plaza",
@@ -1716,8 +1540,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 53,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A53"
+          "row": 43,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A43"
         },
         {
           "uraian": "Menara Mandiri",
@@ -1727,8 +1551,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 54,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A54"
+          "row": 44,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A44"
         },
         {
           "uraian": "The City Center Batavia",
@@ -1738,8 +1562,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 55,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A55"
+          "row": 45,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A45"
         },
         {
           "uraian": "Ratu Plaza (Office)",
@@ -1749,8 +1573,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 56,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A56"
+          "row": 46,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A46"
         },
         {
           "uraian": "Hotel Kartika Candra",
@@ -1760,8 +1584,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 57,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A57"
+          "row": 47,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
         },
         {
           "uraian": "Senopati Suites 1",
@@ -1771,8 +1595,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 58,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A58"
+          "row": 48,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A48"
         },
         {
           "uraian": "Senopati Penthouse",
@@ -1782,8 +1606,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 59,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A59"
+          "row": 49,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A49"
         },
         {
           "uraian": "Ratu Plaza (Apartemen)",
@@ -1793,8 +1617,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 60,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A60"
+          "row": 50,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A50"
         },
         {
           "uraian": "Apartemen Casablanca",
@@ -1804,8 +1628,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 61,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A61"
+          "row": 51,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A51"
         },
         {
           "uraian": "Apartemen Kusuma Candra",
@@ -1815,8 +1639,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 62,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A62"
+          "row": 52,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A52"
         },
         {
           "uraian": "Plaza FX Sudirman",
@@ -1826,8 +1650,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 63,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A63"
+          "row": 53,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A53"
         },
         {
           "uraian": "Hyundai SCBD Lot 19",
@@ -1837,8 +1661,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 64,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A64"
+          "row": 54,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A54"
         },
         {
           "uraian": "Ratu Plaza (Mall)",
@@ -1848,8 +1672,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 65,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A65"
+          "row": 55,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A55"
         },
         {
           "uraian": "Balaiyasa",
@@ -1859,8 +1683,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 66,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A66"
+          "row": 56,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A56"
         },
         {
           "uraian": "LPP TVRI",
@@ -1870,8 +1694,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 67,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A67"
+          "row": 57,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A57"
         },
         {
           "uraian": "Kemenpora RI",
@@ -1881,8 +1705,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 68,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A68"
+          "row": 58,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A58"
         },
         {
           "uraian": "Kantor ATR/BPN RI",
@@ -1892,8 +1716,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 69,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A69"
+          "row": 59,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A59"
         },
         {
           "uraian": "Kantor Dinas Pariwisata Provinsi DKI",
@@ -1903,8 +1727,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 70,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A70"
+          "row": 60,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A60"
         },
         {
           "uraian": "Grand Asia Hotel",
@@ -1914,8 +1738,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 71,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A71"
+          "row": 61,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A61"
         },
         {
           "uraian": "Emporium Pluit Mall",
@@ -1925,8 +1749,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 72,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A72"
+          "row": 62,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A62"
         },
         {
           "uraian": "Pluit Juction & Fave Hotel",
@@ -1936,8 +1760,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 73,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A73"
+          "row": 63,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A63"
         },
         {
           "uraian": "Maxley Hotel",
@@ -1947,8 +1771,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 74,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A74"
+          "row": 64,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A64"
         },
         {
           "uraian": "Ra Premiere Simatupang",
@@ -1958,8 +1782,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 75,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A75"
+          "row": 65,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A65"
         },
         {
           "uraian": "Fatmawati City Center",
@@ -1969,8 +1793,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 76,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A76"
+          "row": 66,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A66"
         },
         {
           "uraian": "KPP Pratama Jakarta Cilandak",
@@ -1980,8 +1804,8 @@
           "volume": "1",
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 77,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A77"
+          "row": 67,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A67"
         }
       ]
     },
@@ -2103,8 +1927,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 33,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
+          "row": 23,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
         },
         {
           "uraian": "Perbaikan Mh-01 SCBD",
@@ -2114,8 +1938,8 @@
           "volume": "1",
           "harga_satuan": 145172304,
           "jumlah": 145172304,
-          "row": 34,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
+          "row": 24,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
         },
         {
           "uraian": "Revitalisasi Pipa Plaza Sentral",
@@ -2125,8 +1949,8 @@
           "volume": "1",
           "harga_satuan": 300000000,
           "jumlah": 300000000,
-          "row": 35,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
+          "row": 25,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
         },
         {
           "uraian": "Revitalisasi Pipa Transfer Sudirman",
@@ -2136,8 +1960,8 @@
           "volume": "1",
           "harga_satuan": 2248697134,
           "jumlah": 2248697134,
-          "row": 36,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A36"
+          "row": 26,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
         },
         {
           "uraian": "Perbaikan Jaringan Rasuna",
@@ -2147,8 +1971,8 @@
           "volume": "1",
           "harga_satuan": 300373400,
           "jumlah": 300373400,
-          "row": 37,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
+          "row": 27,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
         },
         {
           "uraian": "Perbaikan Jalan Ambles Sudirman",
@@ -2158,8 +1982,8 @@
           "volume": "1",
           "harga_satuan": 253475564,
           "jumlah": 253475564,
-          "row": 38,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
+          "row": 28,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
         },
         {
           "uraian": "Jasa Survey GPR Ground Penetraping Radar",
@@ -2169,8 +1993,8 @@
           "volume": "1",
           "harga_satuan": 0,
           "jumlah": 0,
-          "row": 39,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
+          "row": 29,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
         }
       ]
     },
