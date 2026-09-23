@@ -1,71 +1,15 @@
 {
-  "total": 54089434032,
+  "total": 24118794820,
   "by_kelompok": {
-    "Biaya": 10315164785,
-    "Aktiva": 43774269247
+    "Biaya": 6822919009,
+    "Aktiva": 17295875811
   },
   "items": [
-    {
-      "kode": "13010307",
-      "nama": "SAMBUNGAN RUMAH",
-      "kelompok": "Aktiva",
-      "nilai": 24773071888,
-      "row": 25,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A25",
-      "bulanan": {
-        "Januari": 0,
-        "Februari": 0,
-        "Maret": 0,
-        "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
-        "September": 0,
-        "Oktober": 52844579,
-        "November": 0
-      },
-      "rincian": [
-        {
-          "uraian": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
-          "jenis": "Sambungan Rumah",
-          "objek": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 23793377309,
-          "jumlah": 23793377309,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
-        },
-        {
-          "uraian": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
-          "jenis": "Sambungan Rumah",
-          "objek": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 52844579,
-          "jumlah": 52844579,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
-        },
-        {
-          "uraian": "CSR Tarikan Ipal TB Simatupang ",
-          "jenis": "Sambungan Rumah",
-          "objek": "CSR Tarikan Ipal TB Simatupang ",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 926850000,
-          "jumlah": 926850000,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
-        }
-      ]
-    },
     {
       "kode": "13010304",
       "nama": "BAK KONTROL SALURAN INDUK(Pipa Retikulasi NRT)",
       "kelompok": "Aktiva",
-      "nilai": 15104478957,
+      "nilai": 14595677244,
       "row": 22,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
       "bulanan": {
@@ -242,8 +186,8 @@
           "objek": "Pembayaran Perencanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
           "satuan": "Dokumen",
           "volume": "1",
-          "harga_satuan": 508801713,
-          "jumlah": 508801713,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 19,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
         },
@@ -682,7 +626,7 @@
       "kode": "910330",
       "nama": "BEBAN KONSTRUKSI BIOPAL",
       "kelompok": "Biaya",
-      "nilai": 8918491963,
+      "nilai": 5426246187,
       "row": 7,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A7",
       "bulanan": {
@@ -738,8 +682,8 @@
           "objek": "IPAL Depo Pinang Ranti",
           "satuan": "Unit",
           "volume": "1",
-          "harga_satuan": 979716060,
-          "jumlah": 979716060,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 25,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A25"
         },
@@ -749,8 +693,8 @@
           "objek": "IPAL Depo Pesing",
           "satuan": "Unit",
           "volume": "1",
-          "harga_satuan": 1063806376,
-          "jumlah": 1063806376,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 26,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A26"
         },
@@ -760,8 +704,8 @@
           "objek": "IPAL Halte CSW",
           "satuan": "Unit",
           "volume": "1",
-          "harga_satuan": 1448723340,
-          "jumlah": 1448723340,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 27,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A27"
         }
@@ -771,7 +715,7 @@
       "kode": "13010201",
       "nama": "BANGUNAN PEMELIHARAAN",
       "kelompok": "Aktiva",
-      "nilai": 3896718402,
+      "nilai": 1773348567,
       "row": 17,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A17",
       "bulanan": {
@@ -805,8 +749,8 @@
           "objek": "Perbaikan Mh-01 SCBD",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 145172304,
-          "jumlah": 145172304,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 24,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
         },
@@ -816,8 +760,8 @@
           "objek": "Revitalisasi Pipa Plaza Sentral",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 300000000,
-          "jumlah": 300000000,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 25,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
         },
@@ -827,8 +771,8 @@
           "objek": "Revitalisasi Pipa Transfer Sudirman",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 2248697134,
-          "jumlah": 2248697134,
+          "harga_satuan": 1124348567,
+          "jumlah": 1124348567,
           "row": 26,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
         },
@@ -838,8 +782,8 @@
           "objek": "Perbaikan Jaringan Rasuna",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 300373400,
-          "jumlah": 300373400,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 27,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
         },
@@ -849,8 +793,8 @@
           "objek": "Perbaikan Jalan Ambles Sudirman",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 253475564,
-          "jumlah": 253475564,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 28,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
         },
@@ -1019,6 +963,62 @@
           "jumlah": 58835248,
           "row": 22,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A22"
+        }
+      ]
+    },
+    {
+      "kode": "13010307",
+      "nama": "SAMBUNGAN RUMAH",
+      "kelompok": "Aktiva",
+      "nilai": 926850000,
+      "row": 25,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A25",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 0,
+        "Oktober": 52844579,
+        "November": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
+          "jenis": "Sambungan Rumah",
+          "objek": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
+        },
+        {
+          "uraian": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
+          "jenis": "Sambungan Rumah",
+          "objek": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
+        },
+        {
+          "uraian": "CSR Tarikan Ipal TB Simatupang ",
+          "jenis": "Sambungan Rumah",
+          "objek": "CSR Tarikan Ipal TB Simatupang ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 926850000,
+          "jumlah": 926850000,
+          "row": 22,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
         }
       ]
     },
@@ -1159,66 +1159,10 @@
   ],
   "top10": [
     {
-      "kode": "13010307",
-      "nama": "SAMBUNGAN RUMAH",
-      "kelompok": "Aktiva",
-      "nilai": 24773071888,
-      "row": 25,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A25",
-      "bulanan": {
-        "Januari": 0,
-        "Februari": 0,
-        "Maret": 0,
-        "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
-        "September": 0,
-        "Oktober": 52844579,
-        "November": 0
-      },
-      "rincian": [
-        {
-          "uraian": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
-          "jenis": "Sambungan Rumah",
-          "objek": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 23793377309,
-          "jumlah": 23793377309,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
-        },
-        {
-          "uraian": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
-          "jenis": "Sambungan Rumah",
-          "objek": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 52844579,
-          "jumlah": 52844579,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
-        },
-        {
-          "uraian": "CSR Tarikan Ipal TB Simatupang ",
-          "jenis": "Sambungan Rumah",
-          "objek": "CSR Tarikan Ipal TB Simatupang ",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 926850000,
-          "jumlah": 926850000,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
-        }
-      ]
-    },
-    {
       "kode": "13010304",
       "nama": "BAK KONTROL SALURAN INDUK(Pipa Retikulasi NRT)",
       "kelompok": "Aktiva",
-      "nilai": 15104478957,
+      "nilai": 14595677244,
       "row": 22,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
       "bulanan": {
@@ -1395,8 +1339,8 @@
           "objek": "Pembayaran Perencanaan Pembangunan Sarana & Prasarana Pengolahan Air Limbah",
           "satuan": "Dokumen",
           "volume": "1",
-          "harga_satuan": 508801713,
-          "jumlah": 508801713,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 19,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
         },
@@ -1835,7 +1779,7 @@
       "kode": "910330",
       "nama": "BEBAN KONSTRUKSI BIOPAL",
       "kelompok": "Biaya",
-      "nilai": 8918491963,
+      "nilai": 5426246187,
       "row": 7,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A7",
       "bulanan": {
@@ -1891,8 +1835,8 @@
           "objek": "IPAL Depo Pinang Ranti",
           "satuan": "Unit",
           "volume": "1",
-          "harga_satuan": 979716060,
-          "jumlah": 979716060,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 25,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A25"
         },
@@ -1902,8 +1846,8 @@
           "objek": "IPAL Depo Pesing",
           "satuan": "Unit",
           "volume": "1",
-          "harga_satuan": 1063806376,
-          "jumlah": 1063806376,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 26,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A26"
         },
@@ -1913,8 +1857,8 @@
           "objek": "IPAL Halte CSW",
           "satuan": "Unit",
           "volume": "1",
-          "harga_satuan": 1448723340,
-          "jumlah": 1448723340,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 27,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A27"
         }
@@ -1924,7 +1868,7 @@
       "kode": "13010201",
       "nama": "BANGUNAN PEMELIHARAAN",
       "kelompok": "Aktiva",
-      "nilai": 3896718402,
+      "nilai": 1773348567,
       "row": 17,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A17",
       "bulanan": {
@@ -1958,8 +1902,8 @@
           "objek": "Perbaikan Mh-01 SCBD",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 145172304,
-          "jumlah": 145172304,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 24,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
         },
@@ -1969,8 +1913,8 @@
           "objek": "Revitalisasi Pipa Plaza Sentral",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 300000000,
-          "jumlah": 300000000,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 25,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
         },
@@ -1980,8 +1924,8 @@
           "objek": "Revitalisasi Pipa Transfer Sudirman",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 2248697134,
-          "jumlah": 2248697134,
+          "harga_satuan": 1124348567,
+          "jumlah": 1124348567,
           "row": 26,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
         },
@@ -1991,8 +1935,8 @@
           "objek": "Perbaikan Jaringan Rasuna",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 300373400,
-          "jumlah": 300373400,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 27,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
         },
@@ -2002,8 +1946,8 @@
           "objek": "Perbaikan Jalan Ambles Sudirman",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 253475564,
-          "jumlah": 253475564,
+          "harga_satuan": 0,
+          "jumlah": 0,
           "row": 28,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
         },
@@ -2172,6 +2116,62 @@
           "jumlah": 58835248,
           "row": 22,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A22"
+        }
+      ]
+    },
+    {
+      "kode": "13010307",
+      "nama": "SAMBUNGAN RUMAH",
+      "kelompok": "Aktiva",
+      "nilai": 926850000,
+      "row": 25,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A25",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 0,
+        "Oktober": 52844579,
+        "November": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
+          "jenis": "Sambungan Rumah",
+          "objek": "Penyambungan Sumber Air Limbah Tenant di Kawasan Ancol Tahap 2A & 2B ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
+        },
+        {
+          "uraian": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
+          "jenis": "Sambungan Rumah",
+          "objek": "Rumah Tangga Ashrab Shahab, Ria Arsdjadja dan Ade Supriatna ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 0,
+          "jumlah": 0,
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
+        },
+        {
+          "uraian": "CSR Tarikan Ipal TB Simatupang ",
+          "jenis": "Sambungan Rumah",
+          "objek": "CSR Tarikan Ipal TB Simatupang ",
+          "satuan": "Kegiatan",
+          "volume": "1",
+          "harga_satuan": 926850000,
+          "jumlah": 926850000,
+          "row": 22,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
         }
       ]
     },
