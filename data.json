@@ -13,17 +13,17 @@
       "row": 19,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A19",
       "bulanan": {
-        "Januari": 7800000000,
+        "Januari": 2000000000,
         "Februari": 0,
-        "Maret": 0,
+        "Maret": 200000000,
         "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
-        "September": 2472503244,
-        "Oktober": 0,
-        "November": 100000000
+        "Mei": 800000000,
+        "Juni": 800000000,
+        "Juli": 800000000,
+        "Agustus": 800000000,
+        "September": 3272503244,
+        "Oktober": 800000000,
+        "November": 300000000
       },
       "rincian": [
         {
@@ -326,7 +326,7 @@
         {
           "uraian": "Kedutaan Swiss",
           "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Kantor Dinas Pariwisata Provinsi DKI (Zona 0)",
+          "objek": "Kedutaan Swiss (Zona 0)",
           "satuan": "Titik",
           "volume": "1",
           "harga_satuan": 200000000,
@@ -337,7 +337,7 @@
         {
           "uraian": "Kedutaan Singapore",
           "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Kantor Dinas Pariwisata Provinsi DKI (Zona 0)",
+          "objek": "Kedutaan Singapore (Zona 0)",
           "satuan": "Titik",
           "volume": "1",
           "harga_satuan": 200000000,
@@ -348,7 +348,7 @@
         {
           "uraian": "Kedutaan Qatar",
           "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Kantor Dinas Pariwisata Provinsi DKI (Zona 0)",
+          "objek": "Kedutaan Qatar (Zona 0)",
           "satuan": "Titik",
           "volume": "1",
           "harga_satuan": 200000000,
@@ -488,17 +488,17 @@
       "row": 22,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
       "bulanan": {
-        "Januari": 2300000000,
-        "Februari": 0,
-        "Maret": 0,
-        "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
-        "September": 0,
-        "Oktober": 0,
-        "November": 0
+        "Januari": 582849003,
+        "Februari": 112690274,
+        "Maret": 115547416,
+        "April": 142690274,
+        "Mei": 127134718,
+        "Juni": 176975988,
+        "Juli": 176975988,
+        "Agustus": 176975986,
+        "September": 176975986,
+        "Oktober": 176975986,
+        "November": 156975986
       },
       "rincian": [
         {
@@ -923,17 +923,17 @@
       "row": 19,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A19",
       "bulanan": {
-        "Januari": 7800000000,
+        "Januari": 2000000000,
         "Februari": 0,
-        "Maret": 0,
+        "Maret": 200000000,
         "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
-        "September": 2472503244,
-        "Oktober": 0,
-        "November": 100000000
+        "Mei": 800000000,
+        "Juni": 800000000,
+        "Juli": 800000000,
+        "Agustus": 800000000,
+        "September": 3272503244,
+        "Oktober": 800000000,
+        "November": 300000000
       },
       "rincian": [
         {
@@ -1236,7 +1236,7 @@
         {
           "uraian": "Kedutaan Swiss",
           "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Kantor Dinas Pariwisata Provinsi DKI (Zona 0)",
+          "objek": "Kedutaan Swiss (Zona 0)",
           "satuan": "Titik",
           "volume": "1",
           "harga_satuan": 200000000,
@@ -1247,7 +1247,7 @@
         {
           "uraian": "Kedutaan Singapore",
           "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Kantor Dinas Pariwisata Provinsi DKI (Zona 0)",
+          "objek": "Kedutaan Singapore (Zona 0)",
           "satuan": "Titik",
           "volume": "1",
           "harga_satuan": 200000000,
@@ -1258,7 +1258,7 @@
         {
           "uraian": "Kedutaan Qatar",
           "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Kantor Dinas Pariwisata Provinsi DKI (Zona 0)",
+          "objek": "Kedutaan Qatar (Zona 0)",
           "satuan": "Titik",
           "volume": "1",
           "harga_satuan": 200000000,
@@ -1398,17 +1398,17 @@
       "row": 22,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A22",
       "bulanan": {
-        "Januari": 2300000000,
-        "Februari": 0,
-        "Maret": 0,
-        "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
-        "September": 0,
-        "Oktober": 0,
-        "November": 0
+        "Januari": 582849003,
+        "Februari": 112690274,
+        "Maret": 115547416,
+        "April": 142690274,
+        "Mei": 127134718,
+        "Juni": 176975988,
+        "Juli": 176975988,
+        "Agustus": 176975986,
+        "September": 176975986,
+        "Oktober": 176975986,
+        "November": 156975986
       },
       "rincian": [
         {
