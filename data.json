@@ -1,7 +1,7 @@
 {
-  "total": 6753346042,
+  "total": 6724129542,
   "by_kelompok": {
-    "Biaya": 6753346042
+    "Biaya": 6724129542
   },
   "items": [
     {
@@ -44,8 +44,8 @@
           "volume": "1",
           "harga_satuan": 948284820,
           "jumlah": 948284820,
-          "row": 23,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A23"
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
         },
         {
           "uraian": "IPAL Depo Cawang",
@@ -55,8 +55,8 @@
           "volume": "1",
           "harga_satuan": 1166976990,
           "jumlah": 1166976990,
-          "row": 24,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A24"
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
         }
       ]
     },
@@ -111,8 +111,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 13,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 2",
@@ -122,8 +122,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 14,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 3",
@@ -133,8 +133,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 15,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 4",
@@ -144,8 +144,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 16,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 5",
@@ -155,8 +155,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 17,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 6",
@@ -166,8 +166,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 18,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 7",
@@ -177,8 +177,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 8",
@@ -188,8 +188,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 9",
@@ -199,8 +199,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 10",
@@ -210,8 +210,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A22"
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
         }
       ]
     },
@@ -219,21 +219,21 @@
       "kode": "910322",
       "nama": "PENGEMBANGAN & UPDATING GIS JARINGAN PIPA AIR LIMBAH dan POTENSI LAYANAN",
       "kelompok": "Biaya",
-      "nilai": 159539800,
+      "nilai": 139739800,
       "row": 5,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A5",
       "bulanan": {
-        "Januari": 1800000,
-        "Februari": 1800000,
-        "Maret": 6800000,
-        "April": 1800000,
-        "Mei": 1800000,
-        "Juni": 6800000,
-        "Juli": 1800000,
-        "Agustus": 1800000,
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 5000000,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 5000000,
+        "Juli": 0,
+        "Agustus": 0,
         "September": 6800000,
-        "Oktober": 1800000,
-        "November": 119739800
+        "Oktober": 0,
+        "November": 117939800
       },
       "rincian": [
         {
@@ -242,76 +242,44 @@
           "objek": "GIS Jaringan Pipa Air Limbah",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 159539800,
-          "jumlah": 159539800,
+          "harga_satuan": 139739800,
+          "jumlah": 139739800,
           "row": 5,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A5"
         }
       ]
     },
     {
-      "kode": "910325.b",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - LISENSI SOFTWARE",
+      "kode": "910325",
+      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
       "kelompok": "Biaya",
-      "nilai": 85000000,
-      "row": 37,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A37",
-      "bulanan": {},
+      "nilai": 125580000,
+      "row": 6,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A6",
+      "bulanan": {
+        "Januari": 55140000,
+        "Februari": 6240000,
+        "Maret": 6240000,
+        "April": 6240000,
+        "Mei": 6240000,
+        "Juni": 6240000,
+        "Juli": 6240000,
+        "Agustus": 6240000,
+        "September": 8040000,
+        "Oktober": 6240000,
+        "November": 6240000
+      },
       "rincian": [
         {
-          "uraian": "Lisensi Software Pendukung Kegiatan Teknik",
+          "uraian": "Kegiatan Pendukung Bidang Teknik",
           "jenis": "Operasional/Rutin",
           "objek": "Operasional Bidang Teknik",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 85000000,
-          "jumlah": 85000000,
-          "row": 11,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
-        }
-      ]
-    },
-    {
-      "kode": "910325.a",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - KOORDINASI SURVEY LAPANGAN",
-      "kelompok": "Biaya",
-      "nilai": 44880000,
-      "row": 36,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A36",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Koordinasi Survey Lapangan",
-          "jenis": "Operasional/Rutin",
-          "objek": "Operasional Bidang Teknik",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 44880000,
-          "jumlah": 44880000,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
-        }
-      ]
-    },
-    {
-      "kode": "910325.c",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - PEMELIHARAAN PERALATAN",
-      "kelompok": "Biaya",
-      "nilai": 5116500,
-      "row": 38,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A38",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Pemeliharaan Peralatan Bidang Teknik",
-          "jenis": "Pemeliharaan Berkala",
-          "objek": "Pemeliharaan Peralatan Bidang Teknik",
-          "satuan": "Paket",
-          "volume": "1",
-          "harga_satuan": 5116500,
-          "jumlah": 5116500,
-          "row": 12,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
+          "harga_satuan": 125580000,
+          "jumlah": 125580000,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
         }
       ]
     }
@@ -357,8 +325,8 @@
           "volume": "1",
           "harga_satuan": 948284820,
           "jumlah": 948284820,
-          "row": 23,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A23"
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
         },
         {
           "uraian": "IPAL Depo Cawang",
@@ -368,8 +336,8 @@
           "volume": "1",
           "harga_satuan": 1166976990,
           "jumlah": 1166976990,
-          "row": 24,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A24"
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
         }
       ]
     },
@@ -424,8 +392,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 13,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 2",
@@ -435,8 +403,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 14,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 3",
@@ -446,8 +414,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 15,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 4",
@@ -457,8 +425,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 16,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 5",
@@ -468,8 +436,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 17,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 6",
@@ -479,8 +447,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 18,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 7",
@@ -490,8 +458,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 8",
@@ -501,8 +469,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 9",
@@ -512,8 +480,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
         },
         {
           "uraian": "Biopal Tipe 2 - Unit 10",
@@ -523,8 +491,8 @@
           "volume": "1",
           "harga_satuan": 58835248,
           "jumlah": 58835248,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A22"
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
         }
       ]
     },
@@ -532,21 +500,21 @@
       "kode": "910322",
       "nama": "PENGEMBANGAN & UPDATING GIS JARINGAN PIPA AIR LIMBAH dan POTENSI LAYANAN",
       "kelompok": "Biaya",
-      "nilai": 159539800,
+      "nilai": 139739800,
       "row": 5,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A5",
       "bulanan": {
-        "Januari": 1800000,
-        "Februari": 1800000,
-        "Maret": 6800000,
-        "April": 1800000,
-        "Mei": 1800000,
-        "Juni": 6800000,
-        "Juli": 1800000,
-        "Agustus": 1800000,
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 5000000,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 5000000,
+        "Juli": 0,
+        "Agustus": 0,
         "September": 6800000,
-        "Oktober": 1800000,
-        "November": 119739800
+        "Oktober": 0,
+        "November": 117939800
       },
       "rincian": [
         {
@@ -555,76 +523,44 @@
           "objek": "GIS Jaringan Pipa Air Limbah",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 159539800,
-          "jumlah": 159539800,
+          "harga_satuan": 139739800,
+          "jumlah": 139739800,
           "row": 5,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A5"
         }
       ]
     },
     {
-      "kode": "910325.b",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - LISENSI SOFTWARE",
+      "kode": "910325",
+      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
       "kelompok": "Biaya",
-      "nilai": 85000000,
-      "row": 37,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A37",
-      "bulanan": {},
+      "nilai": 125580000,
+      "row": 6,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A6",
+      "bulanan": {
+        "Januari": 55140000,
+        "Februari": 6240000,
+        "Maret": 6240000,
+        "April": 6240000,
+        "Mei": 6240000,
+        "Juni": 6240000,
+        "Juli": 6240000,
+        "Agustus": 6240000,
+        "September": 8040000,
+        "Oktober": 6240000,
+        "November": 6240000
+      },
       "rincian": [
         {
-          "uraian": "Lisensi Software Pendukung Kegiatan Teknik",
+          "uraian": "Kegiatan Pendukung Bidang Teknik",
           "jenis": "Operasional/Rutin",
           "objek": "Operasional Bidang Teknik",
           "satuan": "Kegiatan",
           "volume": "1",
-          "harga_satuan": 85000000,
-          "jumlah": 85000000,
-          "row": 11,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
-        }
-      ]
-    },
-    {
-      "kode": "910325.a",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - KOORDINASI SURVEY LAPANGAN",
-      "kelompok": "Biaya",
-      "nilai": 44880000,
-      "row": 36,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A36",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Koordinasi Survey Lapangan",
-          "jenis": "Operasional/Rutin",
-          "objek": "Operasional Bidang Teknik",
-          "satuan": "Kegiatan",
-          "volume": "1",
-          "harga_satuan": 44880000,
-          "jumlah": 44880000,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
-        }
-      ]
-    },
-    {
-      "kode": "910325.c",
-      "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK - PEMELIHARAAN PERALATAN",
-      "kelompok": "Biaya",
-      "nilai": 5116500,
-      "row": 38,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=963284163&range=A38",
-      "bulanan": {},
-      "rincian": [
-        {
-          "uraian": "Pemeliharaan Peralatan Bidang Teknik",
-          "jenis": "Pemeliharaan Berkala",
-          "objek": "Pemeliharaan Peralatan Bidang Teknik",
-          "satuan": "Paket",
-          "volume": "1",
-          "harga_satuan": 5116500,
-          "jumlah": 5116500,
-          "row": 12,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
+          "harga_satuan": 125580000,
+          "jumlah": 125580000,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
         }
       ]
     }
