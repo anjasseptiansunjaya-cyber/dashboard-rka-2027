@@ -8,7 +8,7 @@
 <style>
   :root{
     --navy:#0f2647; --navy2:#16345e; --accent:#2e7bd6; --bg:#f4f6fa;
-    --card:#ffffff; --text:#1a2540; --muted:#6b7690; --biaya:#e0592a; --aktiva:#2e7bd6;
+    --card:#ffffff; --text:#1a2540; --muted:#6b7690; --biaya:#e0592a; --investasi:#2e7bd6;
   }
   *{box-sizing:border-box}
   body{margin:0;font-family:'Segoe UI',Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
@@ -21,7 +21,7 @@
   .card{background:var(--card);border-radius:12px;padding:18px 20px;box-shadow:0 2px 10px rgba(15,38,71,.08);border-left:5px solid var(--accent)}
   .card.total{border-left-color:var(--navy)}
   .card.biaya{border-left-color:var(--biaya)}
-  .card.aktiva{border-left-color:var(--aktiva)}
+  .card.investasi{border-left-color:var(--investasi)}
   .card .label{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
   .card .value{font-size:24px;font-weight:700;margin-top:6px}
   .panel{background:var(--card);border-radius:12px;padding:20px 24px;box-shadow:0 2px 10px rgba(15,38,71,.08);margin-bottom:20px}
@@ -32,7 +32,7 @@
   td.num{text-align:right;font-variant-numeric:tabular-nums}
   .badge{display:inline-block;padding:2px 10px;border-radius:20px;font-size:11px;font-weight:600;color:#fff}
   .badge.Biaya{background:var(--biaya)}
-  .badge.Aktiva{background:var(--aktiva)}
+  .badge.Investasi{background:var(--investasi)}
   canvas{max-height:340px}
   .grid2{display:grid;grid-template-columns:1.1fr .9fr;gap:20px}
   @media(max-width:800px){.grid2{grid-template-columns:1fr}}
@@ -42,7 +42,7 @@
 <header>
   <div>
     <h1>Dashboard RKA 2027 — Engineering & PMO</h1>
-    <p>Rekap per akun (Biaya & Aktiva) — sumber: Google Sheets, tab 4_Rekap</p>
+    <p>Rekap Biaya & Investasi — sumber: Google Sheets RKA 2027</p>
   </div>
   <div style="text-align:right">
     <div id="refreshedAt">memuat...</div>
@@ -115,7 +115,7 @@ async function load(){
   cardsEl.innerHTML = `
     <div class="card total"><div class="label">Total Anggaran</div><div class="value">${fmt(d.total)}</div></div>
     <div class="card biaya"><div class="label">Biaya (Opex)</div><div class="value">${fmt(d.by_kelompok.Biaya||0)}</div></div>
-    <div class="card aktiva"><div class="label">Aktiva (Capex)</div><div class="value">${fmt(d.by_kelompok.Aktiva||0)}</div></div>
+    <div class="card investasi"><div class="label">Investasi (Capex)</div><div class="value">${fmt(d.by_kelompok.Investasi||0)}</div></div>
   `;
 
   const tbody = document.getElementById('tbody');

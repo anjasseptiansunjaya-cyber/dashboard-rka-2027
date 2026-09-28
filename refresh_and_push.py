@@ -15,7 +15,10 @@ def run(cmd):
     return r.returncode == 0
 
 def main():
-    if not run(["python3", "fetch_data.py"]):
+    if not run(["/opt/data/.gvenv/bin/python", "fetch_data.py"]):
+        return
+    if not run(["python3", "test_dashboard_data.py"]):
+        print("ABORT: test data gagal, tidak push.")
         return
     run(["git", "add", "data.json"])
     r = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=DIR)
