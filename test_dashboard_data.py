@@ -8,9 +8,9 @@ DATA = Path(__file__).with_name("data.json")
 
 def main():
     d = json.loads(DATA.read_text(encoding="utf-8"))
-    assert d["by_kelompok"].get("Biaya") == 6_724_129_542, d["by_kelompok"]
-    assert d["by_kelompok"].get("Investasi") == 12_321_503_244, d["by_kelompok"]
-    assert d["total"] == 19_045_632_786, d["total"]
+    assert d["by_kelompok"].get("Biaya") == 6_307_411_695, d["by_kelompok"]
+    assert d["by_kelompok"].get("Investasi") == 16_811_835_944, d["by_kelompok"]
+    assert d["total"] == 23_119_247_639, d["total"]
     assert any(i["kelompok"] == "Investasi" for i in d["items"]), "investasi absent"
     assert any(i["kode"] == "BELUM-TERKLASIFIKASI" for i in d["items"]), "uncoded investment bucket absent"
     assert sum(i["nilai"] for i in d["items"]) == d["total"], "item total mismatch"

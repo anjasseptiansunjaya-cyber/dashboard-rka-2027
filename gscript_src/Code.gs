@@ -1,6 +1,5 @@
-var REKAP_GID = 963284163;
-var BIAYA_GID = 272950377;
-var INVEST_GID = 513411873;
+var BIAYA_TAB = "1_Anggaran_Biaya";
+var INVEST_TAB = "3_Anggaran_Investasi";
 var MONTHS = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
 
 function doGet(e) {
@@ -15,93 +14,84 @@ function doGet(e) {
 
 function toNum(v) {
   if (v === "" || v === null || v === undefined) return 0;
-  if (typeof v === "number") return Math.round(v);
-  var s = String(v).replace(/\./g, "").replace(/,/g, "").trim();
-  var n = parseInt(s, 10);
+  if (typeof v === "number") return v;
+  var s = String(v).replace(/\./g, "").replace(/,/g, ".").trim();
+  var n = parseFloat(s);
   return isNaN(n) ? 0 : n;
 }
 
-function sheetByGid(ss, gid) {
-  var sheets = ss.getSheets();
-  for (var i = 0; i < sheets.length; i++) {
-    if (sheets[i].getSheetId() === gid) return sheets[i];
-  }
-  return null;
+function sheetByName(ss, name) {
+  return ss.getSheetByName(name);
 }
 
-function loadDetailItems(ss, gid) {
-  var sh = sheetByGid(ss, gid);
-  var byKode = {};
-  if (!sh) return byKode;
+function loadItems(ss, tabName, kelompok) {
+  var sh = sheetByName(ss, tabName);
+  var out = [];
+  if (!sh) return out;
   var lastRow = sh.getLastRow();
-  if (lastRow < 5) return byKode;
-  var rows = sh.getRange(5, 1, lastRow - 4, 13).getValues();
+  if (lastRow < 5) return out;
+  var rows = sh.getRange(5, 1, lastRow - 4, 24).getValues();
+  var grouped = {};
   for (var i = 0; i < rows.length; i++) {
     var r = rows[i];
-    var kode = r[1], uraian = r[5], jenis = r[6], objek = r[7],
-        satuan = r[8], volume = r[9], harga = r[10], jumlah = r[11];
-    if (!kode || !uraian) continue;
+    var uraian = String(r[5] || "").trim();
+    var jumlah = toNum(r[11]);
+    if (!uraian || !jumlah || uraian.toUpperCase() === "JUMLAH") continue;
+    var kode = String(r[1] || "").trim() || "BELUM-TERKLASIFIKASI";
+    var nama = r[2] || (kelompok === "Investasi" ? "Investasi — Belum Terklasifikasi" : "Biaya — Belum Terklasifikasi");
     var rowNum = 5 + i;
-    if (!byKode[kode]) byKode[kode] = [];
-    byKode[kode].push({
-      uraian: uraian, jenis: jenis, objek: objek, satuan: satuan,
-      volume: volume, harga_satuan: toNum(harga), jumlah: toNum(jumlah),
+    var key = kode + "|" + nama;
+    if (!grouped[key]) grouped[key] = {
+      kode: kode, nama: nama, kelompok: kelompok, nilai: 0,
       row: rowNum,
-      sheet_url: "https://docs.google.com/spreadsheets/d/" + ss.getId() + "/edit#gid=" + gid + "&range=A" + rowNum
+      sheet_url: "https://docs.google.com/spreadsheets/d/" + ss.getId() + "/edit#gid=" + sh.getSheetId() + "&range=A" + rowNum,
+      bulanan: {}, rincian: []
+    };
+    var item = grouped[key];
+    item.nilai += jumlah;
+    for (var mi = 0; mi < MONTHS.length; mi++) {
+      var v = r[12 + mi];
+      if (v !== "" && v !== null && v !== undefined) {
+        item.bulanan[MONTHS[mi]] = (item.bulanan[MONTHS[mi]] || 0) + toNum(v);
+      } else if (item.bulanan[MONTHS[mi]] === undefined) {
+        item.bulanan[MONTHS[mi]] = 0;
+      }
+    }
+    item.rincian.push({
+      uraian: uraian, jenis: r[6], objek: r[7], satuan: r[8],
+      volume: r[9], harga_satuan: Math.round(toNum(r[10])), jumlah: Math.round(jumlah),
+      row: rowNum,
+      sheet_url: "https://docs.google.com/spreadsheets/d/" + ss.getId() + "/edit#gid=" + sh.getSheetId() + "&range=A" + rowNum
     });
   }
-  return byKode;
+  for (var k in grouped) out.push(grouped[k]);
+  return out;
 }
 
 function getData() {
   var ss = SpreadsheetApp.getActive();
-  var rekap = sheetByGid(ss, REKAP_GID);
-  var lastRow = rekap.getLastRow();
-  var rows = rekap.getRange(4, 1, lastRow - 3, 16).getValues();
-  var header = rows[0];
-
-  var detailBiaya = loadDetailItems(ss, BIAYA_GID);
-  var detailInvest = loadDetailItems(ss, INVEST_GID);
-
-  var items = [];
-  var total = 0;
-  var startRow = 5;
-  for (var i = 1; i < rows.length; i++) {
-    var r = rows[i];
-    var rowNum = startRow + (i - 1);
-    var kode = r[0], nama = r[1], kelompok = r[2], jumlah = r[3];
-    if (nama === "TOTAL") { total = toNum(jumlah); continue; }
-    if (!nama || !kelompok) continue;
-    var val = toNum(jumlah);
-    if (val === 0) continue;
-    var bulanan = {};
-    for (var mi = 0; mi < MONTHS.length; mi++) {
-      var col = 4 + mi;
-      if (col < r.length) bulanan[MONTHS[mi]] = toNum(r[col]);
-    }
-    var rincian = (detailBiaya[kode] || []).concat(detailInvest[kode] || []);
-    items.push({
-      kode: kode, nama: nama, kelompok: kelompok, nilai: val, row: rowNum,
-      sheet_url: "https://docs.google.com/spreadsheets/d/" + ss.getId() + "/edit#gid=" + REKAP_GID + "&range=A" + rowNum,
-      bulanan: bulanan, rincian: rincian
-    });
-  }
+  var items = loadItems(ss, BIAYA_TAB, "Biaya")
+    .concat(loadItems(ss, INVEST_TAB, "Investasi"));
+  items.forEach(function (it) {
+    it.nilai = Math.round(it.nilai);
+    for (var m in it.bulanan) it.bulanan[m] = Math.round(it.bulanan[m]);
+  });
+  items.sort(function (a, b) { return b.nilai - a.nilai; });
 
   var byKelompok = {};
   items.forEach(function (it) {
     byKelompok[it.kelompok] = (byKelompok[it.kelompok] || 0) + it.nilai;
   });
-  items.sort(function (a, b) { return b.nilai - a.nilai; });
 
-  var sumBK = 0;
-  for (var k in byKelompok) sumBK += byKelompok[k];
+  var total = 0;
+  for (var k2 in byKelompok) total += byKelompok[k2];
 
   return {
-    total: total || sumBK,
+    total: total,
     by_kelompok: byKelompok,
     items: items,
     top10: items.slice(0, 10),
-    source_url: "https://docs.google.com/spreadsheets/d/" + ss.getId() + "/edit#gid=" + REKAP_GID,
+    source_url: "https://docs.google.com/spreadsheets/d/" + ss.getId() + "/edit",
     generated_at: new Date().toISOString()
   };
 }
