@@ -1,15 +1,15 @@
 {
-  "total": 19045632786,
+  "total": 23119247639,
   "by_kelompok": {
-    "Investasi": 12321503244,
-    "Biaya": 6724129542
+    "Investasi": 16811835944,
+    "Biaya": 6307411695
   },
   "items": [
     {
       "kode": "BELUM-TERKLASIFIKASI",
-      "nama": "PERSIL NON-RUMAH TANGGA",
+      "nama": "PERSIL NON-RUMAH TANGGA - Zona 0",
       "kelompok": "Investasi",
-      "nilai": 6150000000,
+      "nilai": 6107158700,
       "row": 6,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A6",
       "bulanan": {
@@ -19,8 +19,8 @@
         "April": 0,
         "Mei": 800000000,
         "Juni": 800000000,
-        "Juli": 800000000,
-        "Agustus": 800000000,
+        "Juli": 957158700,
+        "Agustus": 600000000,
         "September": 800000000,
         "Oktober": 800000000,
         "November": 300000000,
@@ -46,8 +46,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 9,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
         },
         {
           "uraian": "Menara Palma",
@@ -57,8 +57,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
         },
         {
           "uraian": "Palma One",
@@ -68,8 +68,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 11,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
         },
         {
           "uraian": "Tempo Scan Tower",
@@ -79,8 +79,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 12,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
         },
         {
           "uraian": "Wisma Mulia 1",
@@ -90,8 +90,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 13,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
         },
         {
           "uraian": "Plaza Mandiri",
@@ -101,8 +101,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 14,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
         },
         {
           "uraian": "City Plaza",
@@ -112,8 +112,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 15,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
         },
         {
           "uraian": "Menara Mandiri",
@@ -123,8 +123,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 16,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
         },
         {
           "uraian": "The City Center Batavia",
@@ -134,8 +134,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 17,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
         },
         {
           "uraian": "Ratu Plaza (Office)",
@@ -145,8 +145,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 18,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
         },
         {
           "uraian": "Hotel Kartika Candra",
@@ -156,8 +156,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
         },
         {
           "uraian": "Senopati Suites 1",
@@ -167,8 +167,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
         },
         {
           "uraian": "Senopati Penthouse",
@@ -178,8 +178,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
+          "row": 22,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
         },
         {
           "uraian": "Ratu Plaza (Apartemen)",
@@ -189,8 +189,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
+          "row": 23,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
         },
         {
           "uraian": "Apartemen Casablanca",
@@ -200,8 +200,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 23,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
+          "row": 24,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
         },
         {
           "uraian": "Apartemen Kusuma Candra",
@@ -211,8 +211,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 24,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
+          "row": 25,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
         },
         {
           "uraian": "Plaza FX Sudirman",
@@ -222,8 +222,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 25,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
+          "row": 26,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
         },
         {
           "uraian": "Hyundai SCBD Lot 19",
@@ -233,8 +233,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 26,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
+          "row": 27,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
         },
         {
           "uraian": "Ratu Plaza (Mall)",
@@ -244,8 +244,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 27,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
+          "row": 28,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
         },
         {
           "uraian": "Balaiyasa",
@@ -255,8 +255,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 28,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
+          "row": 29,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
         },
         {
           "uraian": "LPP TVRI",
@@ -266,8 +266,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 29,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
+          "row": 30,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
         },
         {
           "uraian": "Kemenpora RI",
@@ -277,8 +277,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 30,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
+          "row": 31,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
         },
         {
           "uraian": "Kantor ATR/BPN RI",
@@ -288,8 +288,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 31,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
+          "row": 32,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
         },
         {
           "uraian": "Kantor Dinas Pariwisata Provinsi DKI",
@@ -299,8 +299,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 32,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
+          "row": 33,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
         },
         {
           "uraian": "Kedutaan Swiss",
@@ -310,8 +310,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 33,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
+          "row": 34,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
         },
         {
           "uraian": "Kedutaan Singapore",
@@ -321,8 +321,8 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 34,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
+          "row": 35,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
         },
         {
           "uraian": "Kedutaan Qatar",
@@ -332,30 +332,19 @@
           "volume": 1,
           "harga_satuan": 200000000,
           "jumlah": 200000000,
-          "row": 35,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
-        },
-        {
-          "uraian": "Ra Premiere Simatupang",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Ra Premiere Simatupang (TB Simatupang)",
-          "satuan": "Titik",
-          "volume": 1,
-          "harga_satuan": 200000000,
-          "jumlah": 200000000,
           "row": 36,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A36"
         },
         {
-          "uraian": "KPP Pratama Jakarta Cilandak",
+          "uraian": "Jasa Konsultansi Pengawas Konstruksi Zona 0",
           "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "KPP Pratama Jakarta Cilandak (TB Simatupang)",
+          "objek": "Jasa Konsultansi Pengawas Konstruksi",
           "satuan": "Titik",
           "volume": 1,
-          "harga_satuan": 200000000,
-          "jumlah": 200000000,
-          "row": 37,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
+          "harga_satuan": 175000000,
+          "jumlah": 175000000,
+          "row": 39,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
         },
         {
           "uraian": "Cover Manhole Persil",
@@ -365,31 +354,132 @@
           "volume": 50,
           "harga_satuan": 5000000,
           "jumlah": 250000000,
-          "row": 40,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
+          "row": 42,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A42"
+        },
+        {
+          "uraian": "Jasa Konsultansi Pengawas Konstruksi TBS",
+          "jenis": "",
+          "objek": "",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 182158700,
+          "jumlah": 182158700,
+          "row": 47,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
         }
       ]
     },
     {
-      "kode": "910330",
-      "nama": "BEBAN KONSTRUKSI BIOPAL",
+      "kode": "BELUM-TERKLASIFIKASI",
+      "nama": "PERSIL NON-RUMAH TANGGA - TBS",
+      "kelompok": "Investasi",
+      "nilai": 4043174000,
+      "row": 37,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 842986000,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 3000188000,
+        "Agustus": 200000000,
+        "September": 0,
+        "Oktober": 0,
+        "November": 0,
+        "Desember": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Ra Premiere Simatupang",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Ra Premiere Simatupang (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 200000000,
+          "jumlah": 200000000,
+          "row": 37,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
+        },
+        {
+          "uraian": "KPP Pratama Jakarta Cilandak",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "KPP Pratama Jakarta Cilandak (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 200000000,
+          "jumlah": 200000000,
+          "row": 38,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
+        },
+        {
+          "uraian": "All Fresh",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "All Fresh (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 542986000,
+          "jumlah": 542986000,
+          "row": 43,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A43"
+        },
+        {
+          "uraian": "Mobil 88 (Olx)",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Mobil 88 (Olx) (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 300000000,
+          "jumlah": 300000000,
+          "row": 44,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A44"
+        },
+        {
+          "uraian": "Elnusa",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Elnusa (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 2272283000,
+          "jumlah": 2272283000,
+          "row": 45,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A45"
+        },
+        {
+          "uraian": "Menara 165",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Menara 165 (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 527905000,
+          "jumlah": 527905000,
+          "row": 46,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A46"
+        }
+      ]
+    },
+    {
+      "kode": "BELUM-TERKLASIFIKASI",
+      "nama": "BEBAN KONTRUKSI BIOPAL KAWASAN TERTENTU",
       "kelompok": "Biaya",
-      "nilai": 5426246187,
+      "nilai": 3310984377,
       "row": 6,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A6",
       "bulanan": {
         "Januari": 0,
         "Februari": 0,
-        "Maret": 291744248,
+        "Maret": 0,
         "April": 0,
-        "Mei": 316094940,
+        "Mei": 0,
         "Juni": 0,
-        "Juli": 291744248,
-        "Agustus": 316094940,
+        "Juli": 0,
+        "Agustus": 0,
         "September": 110384218,
-        "Oktober": 1220248459,
+        "Oktober": 928504212,
         "November": 138048415,
-        "Desember": 2741886719
+        "Desember": 2134047532
       },
       "rincian": [
         {
@@ -402,34 +492,12 @@
           "jumlah": 3310984377,
           "row": 6,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A6"
-        },
-        {
-          "uraian": "IPAL Halte Cawang Sentral",
-          "jenis": "Konstruksi SPALDS",
-          "objek": "IPAL Halte Cawang Sentral",
-          "satuan": "Unit",
-          "volume": 1,
-          "harga_satuan": 948284820,
-          "jumlah": 948284820,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
-        },
-        {
-          "uraian": "IPAL Depo Cawang",
-          "jenis": "Konstruksi SPALDS",
-          "objek": "IPAL Depo Cawang",
-          "satuan": "Unit",
-          "volume": 1,
-          "harga_satuan": 1166976990,
-          "jumlah": 1166976990,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
         }
       ]
     },
     {
       "kode": "BELUM-TERKLASIFIKASI",
-      "nama": "PIPA RETIKULASI LATERAL",
+      "nama": "PIPA RETIKULASI LATERAL - Zona 0",
       "kelompok": "Investasi",
       "nilai": 3100000000,
       "row": 5,
@@ -468,14 +536,170 @@
           "volume": 20,
           "harga_satuan": 5000000,
           "jumlah": 100000000,
-          "row": 39,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
+          "row": 41,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A41"
+        }
+      ]
+    },
+    {
+      "kode": "910330",
+      "nama": "BEBAN KONSTRUKSI BIOPAL",
+      "kelompok": "Biaya",
+      "nilai": 2703614292,
+      "row": 9,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 409414744,
+        "April": 0,
+        "Mei": 374930188,
+        "Juni": 117670496,
+        "Juli": 291744248,
+        "Agustus": 374930188,
+        "September": 0,
+        "Oktober": 409414743,
+        "November": 0,
+        "Desember": 725509683
+      },
+      "rincian": [
+        {
+          "uraian": "Biopal Tipe 2 - Unit 1",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 1",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 2",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 2",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 3",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 3",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 4",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 4",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 5",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 5",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 6",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 6",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 7",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 7",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 8",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 8",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 9",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 9",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 10",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 10",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248,
+          "jumlah": 58835248,
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
+        },
+        {
+          "uraian": "IPAL Halte Cawang Sentral",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "IPAL Halte Cawang Sentral",
+          "satuan": "Unit",
+          "volume": 1,
+          "harga_satuan": 948284820,
+          "jumlah": 948284820,
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
+        },
+        {
+          "uraian": "IPAL Depo Cawang",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "IPAL Depo Cawang",
+          "satuan": "Unit",
+          "volume": 1,
+          "harga_satuan": 1166976990,
+          "jumlah": 1166976990,
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
         }
       ]
     },
     {
       "kode": "BELUM-TERKLASIFIKASI",
-      "nama": "PIPA RETIKULASI SERVICE",
+      "nama": "PIPA RETIKULASI SERVICE - Zona 1",
       "kelompok": "Investasi",
       "nilai": 2472503244,
       "row": 8,
@@ -509,164 +733,8 @@
       ]
     },
     {
-      "kode": "910331",
-      "nama": "BEBAN SERTIFIKASI KBLI PERENCANAAN, SUPERVISI, DAN KONSTRUKSI",
-      "kelompok": "Biaya",
-      "nilai": 1032563555,
-      "row": 7,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7",
-      "bulanan": {
-        "Januari": 0,
-        "Februari": 0,
-        "Maret": 117670496,
-        "April": 0,
-        "Mei": 58835248,
-        "Juni": 117670496,
-        "Juli": 0,
-        "Agustus": 58835248,
-        "September": 110384218,
-        "Oktober": 228054714,
-        "November": 96637605,
-        "Desember": 244475528
-      },
-      "rincian": [
-        {
-          "uraian": "Rencana Biopal Pemasaran",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Rencana Biopal Pemasaran",
-          "satuan": "Paket",
-          "volume": 1,
-          "harga_satuan": 416717847,
-          "jumlah": 416717847,
-          "row": 7,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
-        },
-        {
-          "uraian": "Rencana Revitalisasi Pemasaran",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Rencana Revitalisasi Pemasaran",
-          "satuan": "Paket",
-          "volume": 1,
-          "harga_satuan": 27493226,
-          "jumlah": 27493226,
-          "row": 8,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 1",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 1",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 2",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 2",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 11,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 3",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 3",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 12,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 4",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 4",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 13,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 5",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 5",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 14,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 6",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 6",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 15,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 7",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 7",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 16,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 8",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 8",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 17,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 9",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 9",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 18,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 10",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 10",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248,
-          "jumlah": 58835248,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
-        }
-      ]
-    },
-    {
       "kode": "BELUM-TERKLASIFIKASI",
-      "nama": "PIPA INDUK",
+      "nama": "PIPA INDUK - Zona 0",
       "kelompok": "Investasi",
       "nilai": 599000000,
       "row": 7,
@@ -705,8 +773,43 @@
           "volume": 20,
           "harga_satuan": 5000000,
           "jumlah": 100000000,
-          "row": 38,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
+          "row": 40,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
+        }
+      ]
+    },
+    {
+      "kode": "BELUM-TERKLASIFIKASI",
+      "nama": "PIPA RETIKULASI SERVICE - Zona 0",
+      "kelompok": "Investasi",
+      "nilai": 490000000,
+      "row": 9,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 163333333,
+        "Maret": 163333333,
+        "April": 163333333,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 0,
+        "Oktober": 0,
+        "November": 0,
+        "Desember": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Pembuatan Pengembangan Pipa Tarikan DED Zona 0",
+          "jenis": "Perencanaan/DED",
+          "objek": "Zona 0",
+          "satuan": "Paket",
+          "volume": 1,
+          "harga_satuan": 490000000,
+          "jumlah": 490000000,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
         }
       ]
     },
@@ -750,8 +853,8 @@
       "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
       "kelompok": "Biaya",
       "nilai": 125580000,
-      "row": 9,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9",
+      "row": 8,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8",
       "bulanan": {
         "Januari": 55140000,
         "Februari": 6240000,
@@ -775,8 +878,43 @@
           "volume": 1,
           "harga_satuan": 125580000,
           "jumlah": 125580000,
-          "row": 9,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
+        }
+      ]
+    },
+    {
+      "kode": "BELUM-TERKLASIFIKASI",
+      "nama": "BEBAN KONSTRUKSI REVITALISASI TANGKI SEPTIK",
+      "kelompok": "Biaya",
+      "nilai": 27493226,
+      "row": 7,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7",
+      "bulanan": {
+        "Januari": 0,
+        "Februari": 0,
+        "Maret": 0,
+        "April": 0,
+        "Mei": 0,
+        "Juni": 0,
+        "Juli": 0,
+        "Agustus": 0,
+        "September": 13746613,
+        "Oktober": 13746613,
+        "November": 0,
+        "Desember": 0
+      },
+      "rincian": [
+        {
+          "uraian": "Rencana Revitalisasi Pemasaran",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Rencana Revitalisasi Pemasaran",
+          "satuan": "Paket",
+          "volume": 1,
+          "harga_satuan": 27493226,
+          "jumlah": 27493226,
+          "row": 7,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
         }
       ]
     }
@@ -784,9 +922,9 @@
   "top10": [
     {
       "kode": "BELUM-TERKLASIFIKASI",
-      "nama": "PERSIL NON-RUMAH TANGGA",
+      "nama": "PERSIL NON-RUMAH TANGGA - Zona 0",
       "kelompok": "Investasi",
-      "nilai": 6150000000.0,
+      "nilai": 6107158700.0,
       "row": 6,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A6",
       "bulanan": {
@@ -796,8 +934,8 @@
         "April": 0.0,
         "Mei": 800000000.0,
         "Juni": 800000000.0,
-        "Juli": 800000000.0,
-        "Agustus": 800000000.0,
+        "Juli": 957158700.0,
+        "Agustus": 600000000.0,
         "September": 800000000.0,
         "Oktober": 800000000.0,
         "November": 300000000.0,
@@ -823,8 +961,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 9,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
         },
         {
           "uraian": "Menara Palma",
@@ -834,8 +972,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A10"
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
         },
         {
           "uraian": "Palma One",
@@ -845,8 +983,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 11,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A11"
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
         },
         {
           "uraian": "Tempo Scan Tower",
@@ -856,8 +994,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 12,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A12"
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
         },
         {
           "uraian": "Wisma Mulia 1",
@@ -867,8 +1005,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 13,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A13"
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
         },
         {
           "uraian": "Plaza Mandiri",
@@ -878,8 +1016,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 14,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A14"
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
         },
         {
           "uraian": "City Plaza",
@@ -889,8 +1027,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 15,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A15"
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
         },
         {
           "uraian": "Menara Mandiri",
@@ -900,8 +1038,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 16,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A16"
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
         },
         {
           "uraian": "The City Center Batavia",
@@ -911,8 +1049,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 17,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A17"
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
         },
         {
           "uraian": "Ratu Plaza (Office)",
@@ -922,8 +1060,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 18,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A18"
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
         },
         {
           "uraian": "Hotel Kartika Candra",
@@ -933,8 +1071,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A19"
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
         },
         {
           "uraian": "Senopati Suites 1",
@@ -944,8 +1082,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A20"
+          "row": 21,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
         },
         {
           "uraian": "Senopati Penthouse",
@@ -955,8 +1093,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A21"
+          "row": 22,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
         },
         {
           "uraian": "Ratu Plaza (Apartemen)",
@@ -966,8 +1104,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 22,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A22"
+          "row": 23,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
         },
         {
           "uraian": "Apartemen Casablanca",
@@ -977,8 +1115,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 23,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A23"
+          "row": 24,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
         },
         {
           "uraian": "Apartemen Kusuma Candra",
@@ -988,8 +1126,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 24,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A24"
+          "row": 25,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
         },
         {
           "uraian": "Plaza FX Sudirman",
@@ -999,8 +1137,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 25,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A25"
+          "row": 26,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
         },
         {
           "uraian": "Hyundai SCBD Lot 19",
@@ -1010,8 +1148,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 26,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A26"
+          "row": 27,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
         },
         {
           "uraian": "Ratu Plaza (Mall)",
@@ -1021,8 +1159,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 27,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A27"
+          "row": 28,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
         },
         {
           "uraian": "Balaiyasa",
@@ -1032,8 +1170,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 28,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A28"
+          "row": 29,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
         },
         {
           "uraian": "LPP TVRI",
@@ -1043,8 +1181,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 29,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A29"
+          "row": 30,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
         },
         {
           "uraian": "Kemenpora RI",
@@ -1054,8 +1192,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 30,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A30"
+          "row": 31,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
         },
         {
           "uraian": "Kantor ATR/BPN RI",
@@ -1065,8 +1203,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 31,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A31"
+          "row": 32,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
         },
         {
           "uraian": "Kantor Dinas Pariwisata Provinsi DKI",
@@ -1076,8 +1214,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 32,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A32"
+          "row": 33,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
         },
         {
           "uraian": "Kedutaan Swiss",
@@ -1087,8 +1225,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 33,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A33"
+          "row": 34,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
         },
         {
           "uraian": "Kedutaan Singapore",
@@ -1098,8 +1236,8 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 34,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A34"
+          "row": 35,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
         },
         {
           "uraian": "Kedutaan Qatar",
@@ -1109,30 +1247,19 @@
           "volume": 1,
           "harga_satuan": 200000000.0,
           "jumlah": 200000000.0,
-          "row": 35,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A35"
-        },
-        {
-          "uraian": "Ra Premiere Simatupang",
-          "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "Ra Premiere Simatupang (TB Simatupang)",
-          "satuan": "Titik",
-          "volume": 1,
-          "harga_satuan": 200000000.0,
-          "jumlah": 200000000.0,
           "row": 36,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A36"
         },
         {
-          "uraian": "KPP Pratama Jakarta Cilandak",
+          "uraian": "Jasa Konsultansi Pengawas Konstruksi Zona 0",
           "jenis": "Penyambungan Pelanggan Baru",
-          "objek": "KPP Pratama Jakarta Cilandak (TB Simatupang)",
+          "objek": "Jasa Konsultansi Pengawas Konstruksi",
           "satuan": "Titik",
           "volume": 1,
-          "harga_satuan": 200000000.0,
-          "jumlah": 200000000.0,
-          "row": 37,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
+          "harga_satuan": 175000000.0,
+          "jumlah": 175000000.0,
+          "row": 39,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
         },
         {
           "uraian": "Cover Manhole Persil",
@@ -1142,31 +1269,132 @@
           "volume": 50,
           "harga_satuan": 5000000.0,
           "jumlah": 250000000.0,
-          "row": 40,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
+          "row": 42,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A42"
+        },
+        {
+          "uraian": "Jasa Konsultansi Pengawas Konstruksi TBS",
+          "jenis": "",
+          "objek": "",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 182158700.0,
+          "jumlah": 182158700.0,
+          "row": 47,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
         }
       ]
     },
     {
-      "kode": "910330",
-      "nama": "BEBAN KONSTRUKSI BIOPAL",
+      "kode": "BELUM-TERKLASIFIKASI",
+      "nama": "PERSIL NON-RUMAH TANGGA - TBS",
+      "kelompok": "Investasi",
+      "nilai": 4043174000.0,
+      "row": 37,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37",
+      "bulanan": {
+        "Januari": 0.0,
+        "Februari": 0.0,
+        "Maret": 842986000.0,
+        "April": 0.0,
+        "Mei": 0.0,
+        "Juni": 0.0,
+        "Juli": 3000188000.0,
+        "Agustus": 200000000.0,
+        "September": 0.0,
+        "Oktober": 0.0,
+        "November": 0.0,
+        "Desember": 0.0
+      },
+      "rincian": [
+        {
+          "uraian": "Ra Premiere Simatupang",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Ra Premiere Simatupang (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 200000000.0,
+          "jumlah": 200000000.0,
+          "row": 37,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37"
+        },
+        {
+          "uraian": "KPP Pratama Jakarta Cilandak",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "KPP Pratama Jakarta Cilandak (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 200000000.0,
+          "jumlah": 200000000.0,
+          "row": 38,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
+        },
+        {
+          "uraian": "All Fresh",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "All Fresh (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 542986000.0,
+          "jumlah": 542986000.0,
+          "row": 43,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A43"
+        },
+        {
+          "uraian": "Mobil 88 (Olx)",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Mobil 88 (Olx) (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 300000000.0,
+          "jumlah": 300000000.0,
+          "row": 44,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A44"
+        },
+        {
+          "uraian": "Elnusa",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Elnusa (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 2272283000.0,
+          "jumlah": 2272283000.0,
+          "row": 45,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A45"
+        },
+        {
+          "uraian": "Menara 165",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "Menara 165 (TB Simatupang)",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 527905000.0,
+          "jumlah": 527905000.0,
+          "row": 46,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A46"
+        }
+      ]
+    },
+    {
+      "kode": "BELUM-TERKLASIFIKASI",
+      "nama": "BEBAN KONTRUKSI BIOPAL KAWASAN TERTENTU",
       "kelompok": "Biaya",
-      "nilai": 5426246187.0,
+      "nilai": 3310984377.0,
       "row": 6,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A6",
       "bulanan": {
         "Januari": 0.0,
         "Februari": 0.0,
-        "Maret": 291744248.0,
+        "Maret": 0.0,
         "April": 0.0,
-        "Mei": 316094940.0,
+        "Mei": 0.0,
         "Juni": 0.0,
-        "Juli": 291744248.0,
-        "Agustus": 316094940.0,
+        "Juli": 0.0,
+        "Agustus": 0.0,
         "September": 110384218.0,
-        "Oktober": 1220248459.0,
+        "Oktober": 928504212.0,
         "November": 138048415.0,
-        "Desember": 2741886719.0
+        "Desember": 2134047532.0
       },
       "rincian": [
         {
@@ -1179,34 +1407,12 @@
           "jumlah": 3310984377.0,
           "row": 6,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A6"
-        },
-        {
-          "uraian": "IPAL Halte Cawang Sentral",
-          "jenis": "Konstruksi SPALDS",
-          "objek": "IPAL Halte Cawang Sentral",
-          "satuan": "Unit",
-          "volume": 1,
-          "harga_satuan": 948284820.0,
-          "jumlah": 948284820.0,
-          "row": 20,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
-        },
-        {
-          "uraian": "IPAL Depo Cawang",
-          "jenis": "Konstruksi SPALDS",
-          "objek": "IPAL Depo Cawang",
-          "satuan": "Unit",
-          "volume": 1,
-          "harga_satuan": 1166976990.0,
-          "jumlah": 1166976990.0,
-          "row": 21,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A21"
         }
       ]
     },
     {
       "kode": "BELUM-TERKLASIFIKASI",
-      "nama": "PIPA RETIKULASI LATERAL",
+      "nama": "PIPA RETIKULASI LATERAL - Zona 0",
       "kelompok": "Investasi",
       "nilai": 3100000000.0,
       "row": 5,
@@ -1245,31 +1451,187 @@
           "volume": 20,
           "harga_satuan": 5000000.0,
           "jumlah": 100000000.0,
-          "row": 39,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A39"
+          "row": 41,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A41"
+        }
+      ]
+    },
+    {
+      "kode": "910330",
+      "nama": "BEBAN KONSTRUKSI BIOPAL",
+      "kelompok": "Biaya",
+      "nilai": 2703614292.0,
+      "row": 9,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9",
+      "bulanan": {
+        "Januari": 0.0,
+        "Februari": 0.0,
+        "Maret": 409414744.4,
+        "April": 0.0,
+        "Mei": 374930188.2,
+        "Juni": 117670496.4,
+        "Juli": 291744248.0,
+        "Agustus": 374930188.2,
+        "September": 0.0,
+        "Oktober": 409414743.4,
+        "November": 0.0,
+        "Desember": 725509683.4
+      },
+      "rincian": [
+        {
+          "uraian": "Biopal Tipe 2 - Unit 1",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 1",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 2",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 2",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 10,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 3",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 3",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 11,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 4",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 4",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 12,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 5",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 5",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 13,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 6",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 6",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 14,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 7",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 7",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 15,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 8",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 8",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 16,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 9",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 9",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 17,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
+        },
+        {
+          "uraian": "Biopal Tipe 2 - Unit 10",
+          "jenis": "Konstruksi Biopal",
+          "objek": "Biopal Tipe 2 - Unit 10",
+          "satuan": "Meter Persegi",
+          "volume": 1,
+          "harga_satuan": 58835248.2,
+          "jumlah": 58835248.2,
+          "row": 18,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
+        },
+        {
+          "uraian": "IPAL Halte Cawang Sentral",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "IPAL Halte Cawang Sentral",
+          "satuan": "Unit",
+          "volume": 1,
+          "harga_satuan": 948284820.0,
+          "jumlah": 948284820.0,
+          "row": 19,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
+        },
+        {
+          "uraian": "IPAL Depo Cawang",
+          "jenis": "Konstruksi SPALDS",
+          "objek": "IPAL Depo Cawang",
+          "satuan": "Unit",
+          "volume": 1,
+          "harga_satuan": 1166976990.0,
+          "jumlah": 1166976990.0,
+          "row": 20,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A20"
         }
       ]
     },
     {
       "kode": "BELUM-TERKLASIFIKASI",
-      "nama": "PIPA RETIKULASI SERVICE",
+      "nama": "PIPA RETIKULASI SERVICE - Zona 1",
       "kelompok": "Investasi",
       "nilai": 2472503244.0,
       "row": 8,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A8",
       "bulanan": {
-        "Januari": 0,
-        "Februari": 0,
-        "Maret": 0,
-        "April": 0,
-        "Mei": 0,
-        "Juni": 0,
-        "Juli": 0,
-        "Agustus": 0,
+        "Januari": 0.0,
+        "Februari": 0.0,
+        "Maret": 0.0,
+        "April": 0.0,
+        "Mei": 0.0,
+        "Juni": 0.0,
+        "Juli": 0.0,
+        "Agustus": 0.0,
         "September": 2472503244.0,
-        "Oktober": 0,
-        "November": 0,
-        "Desember": 0
+        "Oktober": 0.0,
+        "November": 0.0,
+        "Desember": 0.0
       },
       "rincian": [
         {
@@ -1286,164 +1648,8 @@
       ]
     },
     {
-      "kode": "910331",
-      "nama": "BEBAN SERTIFIKASI KBLI PERENCANAAN, SUPERVISI, DAN KONSTRUKSI",
-      "kelompok": "Biaya",
-      "nilai": 1032563555.0000004,
-      "row": 7,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7",
-      "bulanan": {
-        "Januari": 0.0,
-        "Februari": 0.0,
-        "Maret": 117670496.4,
-        "April": 0.0,
-        "Mei": 58835248.2,
-        "Juni": 117670496.4,
-        "Juli": 0.0,
-        "Agustus": 58835248.2,
-        "September": 110384218.0,
-        "Oktober": 228054714.39999998,
-        "November": 96637605.0,
-        "Desember": 244475528.39999998
-      },
-      "rincian": [
-        {
-          "uraian": "Rencana Biopal Pemasaran",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Rencana Biopal Pemasaran",
-          "satuan": "Paket",
-          "volume": 1,
-          "harga_satuan": 416717847.0,
-          "jumlah": 416717847.0,
-          "row": 7,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A7"
-        },
-        {
-          "uraian": "Rencana Revitalisasi Pemasaran",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Rencana Revitalisasi Pemasaran",
-          "satuan": "Paket",
-          "volume": 1,
-          "harga_satuan": 27493226.0,
-          "jumlah": 27493226.0,
-          "row": 8,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 1",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 1",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 10,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A10"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 2",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 2",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 11,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A11"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 3",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 3",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 12,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A12"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 4",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 4",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 13,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A13"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 5",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 5",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 14,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A14"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 6",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 6",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 15,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A15"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 7",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 7",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 16,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A16"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 8",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 8",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 17,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A17"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 9",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 9",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 18,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A18"
-        },
-        {
-          "uraian": "Biopal Tipe 2 - Unit 10",
-          "jenis": "Konstruksi Biopal",
-          "objek": "Biopal Tipe 2 - Unit 10",
-          "satuan": "Meter Persegi",
-          "volume": 1,
-          "harga_satuan": 58835248.2,
-          "jumlah": 58835248.2,
-          "row": 19,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A19"
-        }
-      ]
-    },
-    {
       "kode": "BELUM-TERKLASIFIKASI",
-      "nama": "PIPA INDUK",
+      "nama": "PIPA INDUK - Zona 0",
       "kelompok": "Investasi",
       "nilai": 599000000.0,
       "row": 7,
@@ -1482,8 +1688,43 @@
           "volume": 20,
           "harga_satuan": 5000000.0,
           "jumlah": 100000000.0,
-          "row": 38,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A38"
+          "row": 40,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A40"
+        }
+      ]
+    },
+    {
+      "kode": "BELUM-TERKLASIFIKASI",
+      "nama": "PIPA RETIKULASI SERVICE - Zona 0",
+      "kelompok": "Investasi",
+      "nilai": 490000000.0,
+      "row": 9,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9",
+      "bulanan": {
+        "Januari": 0.0,
+        "Februari": 163333333.33333334,
+        "Maret": 163333333.33333334,
+        "April": 163333333.33333334,
+        "Mei": 0.0,
+        "Juni": 0.0,
+        "Juli": 0.0,
+        "Agustus": 0.0,
+        "September": 0.0,
+        "Oktober": 0.0,
+        "November": 0.0,
+        "Desember": 0.0
+      },
+      "rincian": [
+        {
+          "uraian": "Pembuatan Pengembangan Pipa Tarikan DED Zona 0",
+          "jenis": "Perencanaan/DED",
+          "objek": "Zona 0",
+          "satuan": "Paket",
+          "volume": 1,
+          "harga_satuan": 490000000.0,
+          "jumlah": 490000000.0,
+          "row": 9,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A9"
         }
       ]
     },
@@ -1527,8 +1768,8 @@
       "nama": "KEGIATAN PENDUKUNG PEK.TEKNIK",
       "kelompok": "Biaya",
       "nilai": 125580000.0,
-      "row": 9,
-      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9",
+      "row": 8,
+      "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8",
       "bulanan": {
         "Januari": 55140000.0,
         "Februari": 6240000.0,
@@ -1552,8 +1793,8 @@
           "volume": 1,
           "harga_satuan": 125580000.0,
           "jumlah": 125580000.0,
-          "row": 9,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A9"
+          "row": 8,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=272950377&range=A8"
         }
       ]
     }
