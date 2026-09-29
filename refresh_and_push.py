@@ -17,7 +17,7 @@ def run(cmd):
 def main():
     if not run(["/opt/data/.gvenv/bin/python", "fetch_data.py"]):
         return
-    if not run(["python3", "test_dashboard_data.py"]):
+    if not run(["/opt/data/.gvenv/bin/python", "test_dashboard_data.py"]):
         print("ABORT: test data gagal, tidak push.")
         return
     run(["git", "add", "data.json"])
