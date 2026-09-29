@@ -337,7 +337,7 @@
         },
         {
           "uraian": "Jasa Konsultansi Pengawas Konstruksi Zona 0",
-          "jenis": "Penyambungan Pelanggan Baru",
+          "jenis": "Umum",
           "objek": "Jasa Konsultansi Pengawas Konstruksi",
           "satuan": "Titik",
           "volume": 1,
@@ -359,8 +359,8 @@
         },
         {
           "uraian": "Jasa Konsultansi Pengawas Konstruksi TBS",
-          "jenis": "",
-          "objek": "",
+          "jenis": "Umum",
+          "objek": "Jasa Konsultansi Pengawas Konstruksi",
           "satuan": "Titik",
           "volume": 1,
           "harga_satuan": 182158700,
@@ -1241,7 +1241,7 @@
         },
         {
           "uraian": "Jasa Konsultansi Pengawas Konstruksi Zona 0",
-          "jenis": "Penyambungan Pelanggan Baru",
+          "jenis": "Umum",
           "objek": "Jasa Konsultansi Pengawas Konstruksi",
           "satuan": "Titik",
           "volume": 1,
@@ -1263,8 +1263,8 @@
         },
         {
           "uraian": "Jasa Konsultansi Pengawas Konstruksi TBS",
-          "jenis": "",
-          "objek": "",
+          "jenis": "Umum",
+          "objek": "Jasa Konsultansi Pengawas Konstruksi",
           "satuan": "Titik",
           "volume": 1,
           "harga_satuan": 182158700.0,
