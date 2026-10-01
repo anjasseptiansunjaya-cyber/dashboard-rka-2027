@@ -1,7 +1,7 @@
 {
-  "total": 19754662130,
+  "total": 19762162130,
   "by_kelompok": {
-    "Investasi": 16811835944,
+    "Investasi": 16819335944,
     "Biaya": 2942826186
   },
   "items": [
@@ -365,8 +365,8 @@
           "volume": 1,
           "harga_satuan": 182158700,
           "jumlah": 182158700,
-          "row": 47,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
+          "row": 48,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A48"
         }
       ]
     },
@@ -374,7 +374,7 @@
       "kode": "BELUM-TERKLASIFIKASI",
       "nama": "PERSIL NON-RUMAH TANGGA - TBS",
       "kelompok": "Investasi",
-      "nilai": 4043174000,
+      "nilai": 4050674000,
       "row": 37,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37",
       "bulanan": {
@@ -389,7 +389,7 @@
         "September": 0,
         "Oktober": 0,
         "November": 0,
-        "Desember": 0
+        "Desember": 7500000
       },
       "rincian": [
         {
@@ -457,6 +457,17 @@
           "jumlah": 527905000,
           "row": 46,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A46"
+        },
+        {
+          "uraian": "Menara 165",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "TBS Tahap 2",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 7500000,
+          "jumlah": 7500000,
+          "row": 47,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
         }
       ]
     },
@@ -1269,8 +1280,8 @@
           "volume": 1,
           "harga_satuan": 182158700.0,
           "jumlah": 182158700.0,
-          "row": 47,
-          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
+          "row": 48,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A48"
         }
       ]
     },
@@ -1278,7 +1289,7 @@
       "kode": "BELUM-TERKLASIFIKASI",
       "nama": "PERSIL NON-RUMAH TANGGA - TBS",
       "kelompok": "Investasi",
-      "nilai": 4043174000.0,
+      "nilai": 4050674000.0,
       "row": 37,
       "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A37",
       "bulanan": {
@@ -1293,7 +1304,7 @@
         "September": 0.0,
         "Oktober": 0.0,
         "November": 0.0,
-        "Desember": 0.0
+        "Desember": 7500000.0
       },
       "rincian": [
         {
@@ -1361,6 +1372,17 @@
           "jumlah": 527905000.0,
           "row": 46,
           "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A46"
+        },
+        {
+          "uraian": "Menara 165",
+          "jenis": "Penyambungan Pelanggan Baru",
+          "objek": "TBS Tahap 2",
+          "satuan": "Titik",
+          "volume": 1,
+          "harga_satuan": 7500000.0,
+          "jumlah": 7500000.0,
+          "row": 47,
+          "sheet_url": "https://docs.google.com/spreadsheets/d/1WUAK7S3Wpzqe9RyZBLaPQMeot6OiM5wW3tjyQMXFRcc/edit#gid=513411873&range=A47"
         }
       ]
     },
